@@ -1,0 +1,79 @@
+{
+  "repo": "Data-Engineering-Jobs",
+  "owner": "dreamworkhq",
+  "title": "Data Engineering Jobs",
+  "tagline": "Data engineering, analytics engineering, and data platform roles in the US and worldwide: pipelines, warehouses, Spark, dbt, and Airflow. Listings come straight from company career pages.",
+  "description": "Data engineering jobs updated daily. Pipeline, warehouse, and data platform roles (Spark, dbt, Airflow, Snowflake) with salaries, from 400,000+ crawled listings.",
+  "homepage": "https://www.dreamworkhq.com/?utm_source=github&utm_medium=repo_homepage&utm_campaign=gh-data-engineering-jobs",
+  "topics": [
+    "data-engineering",
+    "data-engineer",
+    "jobs",
+    "job-search",
+    "spark",
+    "dbt",
+    "airflow",
+    "jobboard",
+    "careers",
+    "tech-jobs",
+    "snowflake",
+    "data-pipelines",
+    "hiring",
+    "etl",
+    "data-jobs"
+  ],
+  "utmCampaign": "gh-data-engineering-jobs",
+  "keywords": "data engineering roles (pipelines, warehouses, analytics engineering, data platform)",
+  "sources": [
+    {
+      "search": "data engineer"
+    },
+    {
+      "search": "analytics engineer"
+    },
+    {
+      "search": "data platform"
+    }
+  ],
+  "usOnly": false,
+  "titleInclude": "data engineer|analytics engineer|data platform|data infrastructure|\\betl\\b|data warehouse",
+  "titleExclude": "director|\\bvp\\b|head of|chief",
+  "maxRows": 600,
+  "minRows": 25,
+  "maxPagesPerSource": 120,
+  "groupBy": "functionPrimary",
+  "showAiColumn": false,
+  "siblings": [
+    {
+      "repo": "dreamworkhq/Data-Science-Jobs",
+      "label": "Data Science and Analytics Jobs: scientist and analyst roles"
+    },
+    {
+      "repo": "dreamworkhq/Python-Developer-Jobs",
+      "label": "Python Developer Jobs: backend, data, and platform roles"
+    },
+    {
+      "repo": "dreamworkhq/AI-ML-Jobs",
+      "label": "AI and ML Jobs: AI-first roles, classified daily"
+    }
+  ],
+  "faq": [
+    {
+      "q": "How often is this list updated?",
+      "a": "Once a day. A GitHub Action pulls new data engineering listings from Dreamwork's public API, which crawls company career pages directly (Greenhouse, Lever, Ashby, Workday, and others). Use <kbd>Ctrl</kbd>+<kbd>F</kbd> for Spark, dbt, Airflow, Snowflake, or warehouse roles."
+    },
+    {
+      "q": "What counts as a data engineering job here?",
+      "a": "Roles whose title names data engineering work: data engineer, analytics engineer, data platform, data infrastructure, ETL, or data warehouse. Data scientist and analyst roles have <a href=\"https://github.com/dreamworkhq/Data-Science-Jobs\">their own list</a>."
+    },
+    {
+      "q": "Where does the salary data come from?",
+      "a": "From the postings themselves. When a posting does not state pay, the column is blank. Nothing is estimated."
+    },
+    {
+      "q": "Can a tool apply to these for me?",
+      "a": "Yes. <a href=\"https://www.dreamworkhq.com/?utm_source=github&utm_medium=faq&utm_campaign=gh-data-engineering-jobs\">Dreamwork</a> matches your resume against every listing here, tailors each application, and can submit them for you. Seeing your matches is free."
+    }
+  ],
+  "mode": "fresh"
+}
