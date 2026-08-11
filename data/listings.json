@@ -1,9 +1,39 @@
 {
-  "generatedAt": "2026-08-11T02:38:34.565Z",
+  "generatedAt": "2026-08-11T03:52:13.513Z",
   "source": "https://www.dreamworkhq.com",
   "list": "Data-Engineering-Jobs",
   "count": 600,
   "listings": [
+    {
+      "id": "78f1f177-e985-4613-b814-0012069ffb19",
+      "title": "Data Engineer, Enterprise Data Engineering",
+      "company": "Comcast",
+      "companyDomain": "comcast.com",
+      "location": "CO - Englewood, 183 Inverness Dr West",
+      "remoteType": "onsite",
+      "salaryMin": 108579,
+      "salaryMax": 162868,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-07T03:30:56.470Z",
+      "firstIndexedAt": "2026-08-11T03:31:36.319Z",
+      "url": "https://www.dreamworkhq.com/job/78f1f177-e985-4613-b814-0012069ffb19?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "147076a5-8747-4eb5-b7d4-5c330cd415d6",
+      "title": "Associate Consultant -  Data Engineer(Python/Pyspark)",
+      "company": "Oracle",
+      "companyDomain": "oracle.com",
+      "location": "Bangalore, Karnataka, India",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-10T09:52:37.000Z",
+      "firstIndexedAt": "2026-08-11T03:16:11.150Z",
+      "url": "https://www.dreamworkhq.com/job/147076a5-8747-4eb5-b7d4-5c330cd415d6?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
     {
       "id": "b47ccf61-ebdc-4d2a-95f2-ca6185c33bf1",
       "title": "Data Engineer , IT Finance domain",
@@ -125,21 +155,6 @@
       "url": "https://www.dreamworkhq.com/job/c47077c4-8350-4a9d-b93d-938d9b68439d?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "b3d10a49-a84e-4d23-b467-92fd98a76777",
-      "title": "Distributed Systems Engineer 5 - Data Platform Poland",
-      "company": "Netflix",
-      "companyDomain": "netflix.com",
-      "location": "Warsaw",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-11T01:15:42.822Z",
-      "firstIndexedAt": "2026-08-10T23:01:12.790Z",
-      "url": "https://www.dreamworkhq.com/job/b3d10a49-a84e-4d23-b467-92fd98a76777?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
       "id": "c1b2f7e4-1cce-444d-87e5-ee455fd70f82",
       "title": "Analytics Engineer 4 - Content Data Science & Engineering",
       "company": "Netflix",
@@ -150,9 +165,24 @@
       "salaryMax": 421000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-11T01:15:42.824Z",
+      "postedAt": "2026-08-11T03:15:45.205Z",
       "firstIndexedAt": "2026-08-10T23:01:12.790Z",
       "url": "https://www.dreamworkhq.com/job/c1b2f7e4-1cce-444d-87e5-ee455fd70f82?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "b3d10a49-a84e-4d23-b467-92fd98a76777",
+      "title": "Distributed Systems Engineer 5 - Data Platform Poland",
+      "company": "Netflix",
+      "companyDomain": "netflix.com",
+      "location": "Warsaw",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-11T03:15:45.206Z",
+      "firstIndexedAt": "2026-08-10T23:01:12.790Z",
+      "url": "https://www.dreamworkhq.com/job/b3d10a49-a84e-4d23-b467-92fd98a76777?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "69da0020-9bab-4ae9-882f-510404cb8b8e",
@@ -440,7 +470,7 @@
       "url": "https://www.dreamworkhq.com/job/71758c27-ae95-4f7b-b9f5-a0e572150fd5?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "854aac6b-1820-47ae-97e0-bca3bc05a26f",
+      "id": "032aa60e-0c84-4ca7-a344-a0e7fbb46637",
       "title": "Senior Data Engineer",
       "company": "PayPal",
       "companyDomain": "paypal.com",
@@ -450,9 +480,9 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-11T02:00:32.458Z",
+      "postedAt": "2026-08-11T03:30:34.969Z",
       "firstIndexedAt": "2026-08-10T21:15:29.775Z",
-      "url": "https://www.dreamworkhq.com/job/854aac6b-1820-47ae-97e0-bca3bc05a26f?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+      "url": "https://www.dreamworkhq.com/job/032aa60e-0c84-4ca7-a344-a0e7fbb46637?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "64319727-7b20-4cdd-842b-ae6f020e94bc",
@@ -860,19 +890,19 @@
       "url": "https://www.dreamworkhq.com/job/01a75ccb-045b-453a-95c5-40e7c62fd493?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "aadd4c63-2f38-46ef-8dda-a982b5a09b9b",
-      "title": "Data Engineer",
+      "id": "b0e22929-92ad-4eee-9c9f-cf2a32db58f8",
+      "title": "Data Engineer (PySpark)",
       "company": "Capgemini",
       "companyDomain": "capgemini.com",
       "location": null,
-      "remoteType": "hybrid",
+      "remoteType": null,
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
       "postedAt": "2026-08-06T00:00:00.000Z",
       "firstIndexedAt": "2026-08-10T13:30:37.035Z",
-      "url": "https://www.dreamworkhq.com/job/aadd4c63-2f38-46ef-8dda-a982b5a09b9b?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+      "url": "https://www.dreamworkhq.com/job/b0e22929-92ad-4eee-9c9f-cf2a32db58f8?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "52067945-29d6-4ce7-928d-048aace190d1",
@@ -890,19 +920,19 @@
       "url": "https://www.dreamworkhq.com/job/52067945-29d6-4ce7-928d-048aace190d1?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "f8eb5b7e-27b7-4605-942e-788a9d692ac5",
-      "title": "Data Engineer (PySpark)",
+      "id": "aadd4c63-2f38-46ef-8dda-a982b5a09b9b",
+      "title": "Data Engineer",
       "company": "Capgemini",
       "companyDomain": "capgemini.com",
       "location": null,
-      "remoteType": null,
+      "remoteType": "hybrid",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
       "postedAt": "2026-08-06T00:00:00.000Z",
       "firstIndexedAt": "2026-08-10T13:30:37.035Z",
-      "url": "https://www.dreamworkhq.com/job/f8eb5b7e-27b7-4605-942e-788a9d692ac5?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+      "url": "https://www.dreamworkhq.com/job/aadd4c63-2f38-46ef-8dda-a982b5a09b9b?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "59cddd80-76b6-45e8-8154-fb597ff456bd",
@@ -920,21 +950,6 @@
       "url": "https://www.dreamworkhq.com/job/59cddd80-76b6-45e8-8154-fb597ff456bd?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "7f61830a-40cb-4816-9fc1-21cc34afb591",
-      "title": "Data Engineer",
-      "company": "Cvshealth",
-      "companyDomain": "cvshealth.com",
-      "location": "IL - Work from home",
-      "remoteType": "onsite",
-      "salaryMin": 64890,
-      "salaryMax": 173040,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-05T13:08:36.636Z",
-      "firstIndexedAt": "2026-08-10T13:10:08.778Z",
-      "url": "https://www.dreamworkhq.com/job/7f61830a-40cb-4816-9fc1-21cc34afb591?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
       "id": "579d0b67-2c33-4cde-9f06-db348a736d4c",
       "title": "Senior Data Engineer",
       "company": "Cvshealth",
@@ -948,6 +963,21 @@
       "postedAt": "2026-08-05T13:08:36.560Z",
       "firstIndexedAt": "2026-08-10T13:10:08.778Z",
       "url": "https://www.dreamworkhq.com/job/579d0b67-2c33-4cde-9f06-db348a736d4c?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "7f61830a-40cb-4816-9fc1-21cc34afb591",
+      "title": "Data Engineer",
+      "company": "Cvshealth",
+      "companyDomain": "cvshealth.com",
+      "location": "IL - Work from home",
+      "remoteType": "onsite",
+      "salaryMin": 64890,
+      "salaryMax": 173040,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-05T13:08:36.636Z",
+      "firstIndexedAt": "2026-08-10T13:10:08.778Z",
+      "url": "https://www.dreamworkhq.com/job/7f61830a-40cb-4816-9fc1-21cc34afb591?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "ff5314fb-666a-4a05-8434-5ac32d825838",
@@ -1085,8 +1115,8 @@
       "url": "https://www.dreamworkhq.com/job/459e8791-4273-4656-8760-b27cd9d81813?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "e4d3e5a6-3770-487b-bcf7-4c22f4cd6e36",
-      "title": "Data Engineer ",
+      "id": "16842e95-ccf2-433d-8686-6e7ddca76dfd",
+      "title": "Data Engineer",
       "company": "Stefanini Latam",
       "companyDomain": "stefanini.com.br",
       "location": "Santiago, Chile",
@@ -1095,9 +1125,39 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-06T15:58:49.694Z",
+      "postedAt": "2026-08-07T13:52:31.119Z",
       "firstIndexedAt": "2026-08-10T10:30:08.712Z",
-      "url": "https://www.dreamworkhq.com/job/e4d3e5a6-3770-487b-bcf7-4c22f4cd6e36?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+      "url": "https://www.dreamworkhq.com/job/16842e95-ccf2-433d-8686-6e7ddca76dfd?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "e8b7fbf4-4d7d-4584-be5a-59966f6bc141",
+      "title": "Data Engineering Support Lead",
+      "company": "EXL",
+      "companyDomain": "exlservice.com",
+      "location": "Pune, Maharashtra, India",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-06T12:08:42.000Z",
+      "firstIndexedAt": "2026-08-10T10:18:13.380Z",
+      "url": "https://www.dreamworkhq.com/job/e8b7fbf4-4d7d-4584-be5a-59966f6bc141?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "f174b51e-77ed-4845-97fe-6fb93edc8285",
+      "title": "Azure Data Engineer",
+      "company": "EXL",
+      "companyDomain": "exlservice.com",
+      "location": "Hyderabad, Telangana, India",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-06T10:54:18.000Z",
+      "firstIndexedAt": "2026-08-10T10:18:13.380Z",
+      "url": "https://www.dreamworkhq.com/job/f174b51e-77ed-4845-97fe-6fb93edc8285?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "d1cd8729-7790-4081-a75a-6d5eaf9521b7",
@@ -1130,34 +1190,34 @@
       "url": "https://www.dreamworkhq.com/job/e951b800-daff-41d0-b3ff-ab1cda1be48e?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "e8b7fbf4-4d7d-4584-be5a-59966f6bc141",
-      "title": "Data Engineering Support Lead",
+      "id": "146634f7-1e29-4592-98b2-6a57e6fbb6c6",
+      "title": "Big Data Engineer",
       "company": "EXL",
       "companyDomain": "exlservice.com",
-      "location": "Pune, Maharashtra, India",
+      "location": "Pittsburgh, Pennsylvania, United States",
       "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
+      "salaryMin": 100000,
+      "salaryMax": 130000,
+      "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-06T12:08:42.000Z",
-      "firstIndexedAt": "2026-08-10T10:18:13.380Z",
-      "url": "https://www.dreamworkhq.com/job/e8b7fbf4-4d7d-4584-be5a-59966f6bc141?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+      "postedAt": "2026-08-06T16:40:32.000Z",
+      "firstIndexedAt": "2026-08-10T10:18:12.250Z",
+      "url": "https://www.dreamworkhq.com/job/146634f7-1e29-4592-98b2-6a57e6fbb6c6?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "ce47f0c0-8492-4a24-ba87-de5e33f9bb42",
-      "title": "Azure Data Engineer",
+      "id": "3cb0f635-411c-42d6-bd5a-e5c82b0915b7",
+      "title": "Data Analytics Engineer",
       "company": "EXL",
       "companyDomain": "exlservice.com",
-      "location": "Hyderabad, Telangana, India",
+      "location": "San Francisco, California, United States",
       "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
+      "salaryMin": 140000,
+      "salaryMax": 155000,
+      "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-05T10:47:30.000Z",
-      "firstIndexedAt": "2026-08-10T10:18:13.380Z",
-      "url": "https://www.dreamworkhq.com/job/ce47f0c0-8492-4a24-ba87-de5e33f9bb42?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+      "postedAt": "2026-08-06T19:26:17.000Z",
+      "firstIndexedAt": "2026-08-10T10:18:12.250Z",
+      "url": "https://www.dreamworkhq.com/job/3cb0f635-411c-42d6-bd5a-e5c82b0915b7?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "c1689f12-866b-4c74-9122-0f1155ce1627",
@@ -1173,21 +1233,6 @@
       "postedAt": "2026-08-07T11:48:01.000Z",
       "firstIndexedAt": "2026-08-10T10:18:12.250Z",
       "url": "https://www.dreamworkhq.com/job/c1689f12-866b-4c74-9122-0f1155ce1627?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
-      "id": "146634f7-1e29-4592-98b2-6a57e6fbb6c6",
-      "title": "Big Data Engineer",
-      "company": "EXL",
-      "companyDomain": "exlservice.com",
-      "location": "Pittsburgh, Pennsylvania, United States",
-      "remoteType": "hybrid",
-      "salaryMin": 100000,
-      "salaryMax": 130000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-06T16:40:32.000Z",
-      "firstIndexedAt": "2026-08-10T10:18:12.250Z",
-      "url": "https://www.dreamworkhq.com/job/146634f7-1e29-4592-98b2-6a57e6fbb6c6?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "54da5380-0647-42ca-a33f-4007c3badc6b",
@@ -1218,21 +1263,6 @@
       "postedAt": "2026-08-05T19:24:38.000Z",
       "firstIndexedAt": "2026-08-10T10:18:12.250Z",
       "url": "https://www.dreamworkhq.com/job/ee6b5199-26b0-43f3-8cfe-73ad222da76b?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
-      "id": "3cb0f635-411c-42d6-bd5a-e5c82b0915b7",
-      "title": "Data Analytics Engineer",
-      "company": "EXL",
-      "companyDomain": "exlservice.com",
-      "location": "San Francisco, California, United States",
-      "remoteType": "hybrid",
-      "salaryMin": 140000,
-      "salaryMax": 155000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-06T19:26:17.000Z",
-      "firstIndexedAt": "2026-08-10T10:18:12.250Z",
-      "url": "https://www.dreamworkhq.com/job/3cb0f635-411c-42d6-bd5a-e5c82b0915b7?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "fb069623-8644-4145-9a44-974f1bd63e64",
@@ -1340,21 +1370,6 @@
       "url": "https://www.dreamworkhq.com/job/b08a46f7-dbcd-42fc-920a-893c6772a729?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "56f56c6a-02ea-4658-8c0d-87ef0960060c",
-      "title": "Senior Data Engineer",
-      "company": "Hiflylabs",
-      "companyDomain": "hiflylabs.com",
-      "location": "Budapest, , Hungary",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-05T13:58:38.422Z",
-      "firstIndexedAt": "2026-08-10T09:30:09.014Z",
-      "url": "https://www.dreamworkhq.com/job/56f56c6a-02ea-4658-8c0d-87ef0960060c?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
       "id": "8ea0fde7-5bc9-4153-9091-4b239b7903ea",
       "title": "Senior Databricks Data Engineer",
       "company": "Hiflylabs",
@@ -1368,6 +1383,21 @@
       "postedAt": "2026-08-08T10:21:00.241Z",
       "firstIndexedAt": "2026-08-10T09:30:09.014Z",
       "url": "https://www.dreamworkhq.com/job/8ea0fde7-5bc9-4153-9091-4b239b7903ea?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "56f56c6a-02ea-4658-8c0d-87ef0960060c",
+      "title": "Senior Data Engineer",
+      "company": "Hiflylabs",
+      "companyDomain": "hiflylabs.com",
+      "location": "Budapest, , Hungary",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-05T13:58:38.422Z",
+      "firstIndexedAt": "2026-08-10T09:30:09.014Z",
+      "url": "https://www.dreamworkhq.com/job/56f56c6a-02ea-4658-8c0d-87ef0960060c?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "8fa81d4b-ed97-45ef-92a1-7375bd81c2b7",
@@ -1700,21 +1730,6 @@
       "url": "https://www.dreamworkhq.com/job/7f632953-30af-4d0e-a8d5-1d0815fde55f?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "f8b51e20-ea3a-4493-bca4-2b0da8c166ef",
-      "title": "Engineering Manager, Data Services, IS&T Ai & Data Platforms",
-      "company": "Apple",
-      "companyDomain": "apple.com",
-      "location": "Shanghai",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-08T00:23:24.956Z",
-      "firstIndexedAt": "2026-08-10T05:53:37.887Z",
-      "url": "https://www.dreamworkhq.com/job/f8b51e20-ea3a-4493-bca4-2b0da8c166ef?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
       "id": "b8c30f76-5c70-4671-a032-39fd0d002c9e",
       "title": "Site Reliability Engineer — ETL Platform, IS&T Ai & Data Platforms",
       "company": "Apple",
@@ -1728,6 +1743,21 @@
       "postedAt": "2026-08-08T00:24:49.613Z",
       "firstIndexedAt": "2026-08-10T05:53:37.887Z",
       "url": "https://www.dreamworkhq.com/job/b8c30f76-5c70-4671-a032-39fd0d002c9e?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "f8b51e20-ea3a-4493-bca4-2b0da8c166ef",
+      "title": "Engineering Manager, Data Services, IS&T Ai & Data Platforms",
+      "company": "Apple",
+      "companyDomain": "apple.com",
+      "location": "Shanghai",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-08T00:23:24.956Z",
+      "firstIndexedAt": "2026-08-10T05:53:37.887Z",
+      "url": "https://www.dreamworkhq.com/job/f8b51e20-ea3a-4493-bca4-2b0da8c166ef?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "907d31ce-08d0-40a7-b11c-1637a3ba5e3d",
@@ -1745,11 +1775,11 @@
       "url": "https://www.dreamworkhq.com/job/907d31ce-08d0-40a7-b11c-1637a3ba5e3d?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "1318c3bc-6f78-4d77-b6f5-7d97b20f391c",
-      "title": "Data Engineer (French Speaker)",
+      "id": "11ce3006-c459-4825-968e-2a231467b500",
+      "title": "Data Engineer",
       "company": "Dellent",
       "companyDomain": "dellent.com",
-      "location": "Porto",
+      "location": "Lisboa",
       "remoteType": "hybrid",
       "salaryMin": null,
       "salaryMax": null,
@@ -1757,10 +1787,10 @@
       "aiRoleKind": "non_ai",
       "postedAt": "2026-08-08T00:00:00.000Z",
       "firstIndexedAt": "2026-08-10T05:02:37.651Z",
-      "url": "https://www.dreamworkhq.com/job/1318c3bc-6f78-4d77-b6f5-7d97b20f391c?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+      "url": "https://www.dreamworkhq.com/job/11ce3006-c459-4825-968e-2a231467b500?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "41b371a0-89b5-4fef-8f72-76415caafc3c",
+      "id": "db172d3d-f57c-4ccb-8f61-c2c64c1147fb",
       "title": "Data Engineer",
       "company": "Dellent",
       "companyDomain": "dellent.com",
@@ -1772,52 +1802,7 @@
       "aiRoleKind": "non_ai",
       "postedAt": "2026-08-08T00:00:00.000Z",
       "firstIndexedAt": "2026-08-10T05:02:37.651Z",
-      "url": "https://www.dreamworkhq.com/job/41b371a0-89b5-4fef-8f72-76415caafc3c?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
-      "id": "9eda2d0f-8c44-4504-95d8-dad5ce8e6519",
-      "title": "Mid Data Platform Engineer M/F - Remote",
-      "company": "Sysmatch IT Consulting",
-      "companyDomain": "sysmatch.pt",
-      "location": "Lisboa",
-      "remoteType": "remote",
-      "salaryMin": 27000,
-      "salaryMax": 38000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-08T00:00:00.000Z",
-      "firstIndexedAt": "2026-08-10T05:02:37.651Z",
-      "url": "https://www.dreamworkhq.com/job/9eda2d0f-8c44-4504-95d8-dad5ce8e6519?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
-      "id": "b158225f-cc87-414f-95df-142d25137b1f",
-      "title": "Data Engineer (Dataiku) (Hibrido - Lisboa)",
-      "company": "Shore",
-      "companyDomain": "shore.pt",
-      "location": "Lisboa",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-08T00:00:00.000Z",
-      "firstIndexedAt": "2026-08-10T05:02:37.651Z",
-      "url": "https://www.dreamworkhq.com/job/b158225f-cc87-414f-95df-142d25137b1f?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
-      "id": "79254e51-a70f-41ce-8630-a0ed412635e9",
-      "title": "Data Engineer (SQL, Python, Azure Synapse)",
-      "company": "IRISTECH LDA",
-      "companyDomain": null,
-      "location": "Lisboa",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-09T00:00:00.000Z",
-      "firstIndexedAt": "2026-08-10T05:02:37.651Z",
-      "url": "https://www.dreamworkhq.com/job/79254e51-a70f-41ce-8630-a0ed412635e9?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+      "url": "https://www.dreamworkhq.com/job/db172d3d-f57c-4ccb-8f61-c2c64c1147fb?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "93a2eb5a-c0a1-42b1-ae34-7d43b21da684",
@@ -1835,51 +1820,6 @@
       "url": "https://www.dreamworkhq.com/job/93a2eb5a-c0a1-42b1-ae34-7d43b21da684?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "11ce3006-c459-4825-968e-2a231467b500",
-      "title": "Data Engineer",
-      "company": "Dellent",
-      "companyDomain": "dellent.com",
-      "location": "Lisboa",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-08T00:00:00.000Z",
-      "firstIndexedAt": "2026-08-10T05:02:37.651Z",
-      "url": "https://www.dreamworkhq.com/job/11ce3006-c459-4825-968e-2a231467b500?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
-      "id": "8ddb4516-eeea-4b54-b32e-09dfb9d42d49",
-      "title": "Data Engineer  IKEA Supply",
-      "company": "IRIUM",
-      "companyDomain": "irium.com",
-      "location": "Lisboa",
-      "remoteType": "hybrid",
-      "salaryMin": 45000,
-      "salaryMax": 51000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-07T00:00:00.000Z",
-      "firstIndexedAt": "2026-08-10T05:02:37.651Z",
-      "url": "https://www.dreamworkhq.com/job/8ddb4516-eeea-4b54-b32e-09dfb9d42d49?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
-      "id": "9b0f059a-28d1-428c-b095-e92bc4a3a9ec",
-      "title": "Data Engineer (Snowflake and DBT) - Hibrido",
-      "company": "Ankix",
-      "companyDomain": "ankix.com",
-      "location": "Lisboa",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-08T00:00:00.000Z",
-      "firstIndexedAt": "2026-08-10T05:02:37.651Z",
-      "url": "https://www.dreamworkhq.com/job/9b0f059a-28d1-428c-b095-e92bc4a3a9ec?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
       "id": "c67c39e0-d697-423f-a9a1-3e716fa77039",
       "title": "Azure Data Engineer",
       "company": "Bee Engineering",
@@ -1893,6 +1833,111 @@
       "postedAt": "2026-08-08T00:00:00.000Z",
       "firstIndexedAt": "2026-08-10T05:02:37.651Z",
       "url": "https://www.dreamworkhq.com/job/c67c39e0-d697-423f-a9a1-3e716fa77039?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "83d23d6e-c3e0-41fc-a040-14ccf2b93e3d",
+      "title": "Senior Big Data Engineer",
+      "company": "Rumos Consulting",
+      "companyDomain": "rumos.pt",
+      "location": "Lisboa",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-07T00:00:00.000Z",
+      "firstIndexedAt": "2026-08-10T05:02:37.651Z",
+      "url": "https://www.dreamworkhq.com/job/83d23d6e-c3e0-41fc-a040-14ccf2b93e3d?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "b158225f-cc87-414f-95df-142d25137b1f",
+      "title": "Data Engineer (Dataiku) (Hibrido - Lisboa)",
+      "company": "Shore",
+      "companyDomain": "shore.pt",
+      "location": "Lisboa",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-08-08T00:00:00.000Z",
+      "firstIndexedAt": "2026-08-10T05:02:37.651Z",
+      "url": "https://www.dreamworkhq.com/job/b158225f-cc87-414f-95df-142d25137b1f?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "9eda2d0f-8c44-4504-95d8-dad5ce8e6519",
+      "title": "Mid Data Platform Engineer M/F - Remote",
+      "company": "Sysmatch IT Consulting",
+      "companyDomain": "sysmatch.pt",
+      "location": "Lisboa",
+      "remoteType": "remote",
+      "salaryMin": 27000,
+      "salaryMax": 38000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-08-08T00:00:00.000Z",
+      "firstIndexedAt": "2026-08-10T05:02:37.651Z",
+      "url": "https://www.dreamworkhq.com/job/9eda2d0f-8c44-4504-95d8-dad5ce8e6519?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "07306b06-a041-4837-b406-89d988683877",
+      "title": "Senior Data Engineer",
+      "company": "We are META",
+      "companyDomain": "wearemeta.com",
+      "location": null,
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-08T00:00:00.000Z",
+      "firstIndexedAt": "2026-08-10T05:02:37.651Z",
+      "url": "https://www.dreamworkhq.com/job/07306b06-a041-4837-b406-89d988683877?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "45e3937e-a795-45cf-af6a-0e561a9b21fc",
+      "title": "Data Engineer Sénior Responsável pelo pipeline ETL, DW e integrações ERP Essenciais: Python 3.12 a",
+      "company": "LTS, LDA",
+      "companyDomain": null,
+      "location": "Porto",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-08-10T00:00:00.000Z",
+      "firstIndexedAt": "2026-08-10T05:02:37.651Z",
+      "url": "https://www.dreamworkhq.com/job/45e3937e-a795-45cf-af6a-0e561a9b21fc?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "79254e51-a70f-41ce-8630-a0ed412635e9",
+      "title": "Data Engineer (SQL, Python, Azure Synapse)",
+      "company": "IRISTECH LDA",
+      "companyDomain": null,
+      "location": "Lisboa",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-09T00:00:00.000Z",
+      "firstIndexedAt": "2026-08-10T05:02:37.651Z",
+      "url": "https://www.dreamworkhq.com/job/79254e51-a70f-41ce-8630-a0ed412635e9?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "1318c3bc-6f78-4d77-b6f5-7d97b20f391c",
+      "title": "Data Engineer (French Speaker)",
+      "company": "Dellent",
+      "companyDomain": "dellent.com",
+      "location": "Porto",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-08T00:00:00.000Z",
+      "firstIndexedAt": "2026-08-10T05:02:37.651Z",
+      "url": "https://www.dreamworkhq.com/job/1318c3bc-6f78-4d77-b6f5-7d97b20f391c?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "a81198f7-3679-470f-a06d-aaa03f70506d",
@@ -1925,21 +1970,6 @@
       "url": "https://www.dreamworkhq.com/job/ee3138d1-92e7-4da3-bcac-26a2817ed1c5?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "d5d625ff-de11-4dd0-8a59-b360c7e6ab02",
-      "title": "Data Engineer Sénior 126",
-      "company": "Milestone Consulting",
-      "companyDomain": "milestone.pt",
-      "location": "Lisboa",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-07T00:00:00.000Z",
-      "firstIndexedAt": "2026-08-10T05:02:37.651Z",
-      "url": "https://www.dreamworkhq.com/job/d5d625ff-de11-4dd0-8a59-b360c7e6ab02?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
       "id": "edffc61f-d3ba-4d6b-8472-3592bbffcb70",
       "title": "Data Engineer | Hibrido | Porto",
       "company": "Sowin",
@@ -1955,64 +1985,19 @@
       "url": "https://www.dreamworkhq.com/job/edffc61f-d3ba-4d6b-8472-3592bbffcb70?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "45e3937e-a795-45cf-af6a-0e561a9b21fc",
-      "title": "Data Engineer Sénior Responsável pelo pipeline ETL, DW e integrações ERP Essenciais: Python 3.12 a",
-      "company": "LTS, LDA",
-      "companyDomain": null,
-      "location": "Porto",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-10T00:00:00.000Z",
-      "firstIndexedAt": "2026-08-10T05:02:37.651Z",
-      "url": "https://www.dreamworkhq.com/job/45e3937e-a795-45cf-af6a-0e561a9b21fc?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
-      "id": "07306b06-a041-4837-b406-89d988683877",
-      "title": "Senior Data Engineer",
-      "company": "We are META",
-      "companyDomain": "wearemeta.com",
-      "location": null,
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-08T00:00:00.000Z",
-      "firstIndexedAt": "2026-08-10T05:02:37.651Z",
-      "url": "https://www.dreamworkhq.com/job/07306b06-a041-4837-b406-89d988683877?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
-      "id": "83d23d6e-c3e0-41fc-a040-14ccf2b93e3d",
-      "title": "Senior Big Data Engineer",
-      "company": "Rumos Consulting",
-      "companyDomain": "rumos.pt",
+      "id": "8ddb4516-eeea-4b54-b32e-09dfb9d42d49",
+      "title": "Data Engineer  IKEA Supply",
+      "company": "IRIUM",
+      "companyDomain": "irium.com",
       "location": "Lisboa",
       "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
+      "salaryMin": 45000,
+      "salaryMax": 51000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "ai_explicit",
       "postedAt": "2026-08-07T00:00:00.000Z",
       "firstIndexedAt": "2026-08-10T05:02:37.651Z",
-      "url": "https://www.dreamworkhq.com/job/83d23d6e-c3e0-41fc-a040-14ccf2b93e3d?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
-      "id": "bda399c5-4a31-415c-a013-e1aa2fcdb0c6",
-      "title": "BI Consultant / Data Engineer",
-      "company": "Dellent",
-      "companyDomain": "dellent.com",
-      "location": "Lisboa",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-10T00:00:00.000Z",
-      "firstIndexedAt": "2026-08-10T05:02:37.651Z",
-      "url": "https://www.dreamworkhq.com/job/bda399c5-4a31-415c-a013-e1aa2fcdb0c6?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+      "url": "https://www.dreamworkhq.com/job/8ddb4516-eeea-4b54-b32e-09dfb9d42d49?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "e26275a1-2a2e-4b07-b3c4-dd17cee2301d",
@@ -2030,19 +2015,19 @@
       "url": "https://www.dreamworkhq.com/job/e26275a1-2a2e-4b07-b3c4-dd17cee2301d?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "48006ab9-5341-4a0f-a0f1-e25e70a70f66",
-      "title": "Senior Data Engineer  English speaker in Lisbon",
-      "company": "TP Portugal",
-      "companyDomain": "teleperformance.pt",
+      "id": "4fbf8615-7457-44c6-b8b2-84067ba7bf53",
+      "title": "Data Engineer (Lisboa/Híbrido)",
+      "company": "Noesis Portugal S.A.",
+      "companyDomain": "noesis.pt",
       "location": "Lisboa",
-      "remoteType": "onsite",
+      "remoteType": "hybrid",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-07T00:00:00.000Z",
+      "postedAt": "2026-08-08T00:00:00.000Z",
       "firstIndexedAt": "2026-08-10T05:02:35.553Z",
-      "url": "https://www.dreamworkhq.com/job/48006ab9-5341-4a0f-a0f1-e25e70a70f66?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+      "url": "https://www.dreamworkhq.com/job/4fbf8615-7457-44c6-b8b2-84067ba7bf53?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "f45f8c6f-a9ee-4819-b1a0-b4bdf0864d8c",
@@ -2075,19 +2060,19 @@
       "url": "https://www.dreamworkhq.com/job/69a0be0c-4f19-4625-86dd-514a7b2ad867?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "4fbf8615-7457-44c6-b8b2-84067ba7bf53",
-      "title": "Data Engineer (Lisboa/Híbrido)",
-      "company": "Noesis Portugal S.A.",
-      "companyDomain": "noesis.pt",
+      "id": "48006ab9-5341-4a0f-a0f1-e25e70a70f66",
+      "title": "Senior Data Engineer  English speaker in Lisbon",
+      "company": "TP Portugal",
+      "companyDomain": "teleperformance.pt",
       "location": "Lisboa",
-      "remoteType": "hybrid",
+      "remoteType": "onsite",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-08T00:00:00.000Z",
+      "postedAt": "2026-08-07T00:00:00.000Z",
       "firstIndexedAt": "2026-08-10T05:02:35.553Z",
-      "url": "https://www.dreamworkhq.com/job/4fbf8615-7457-44c6-b8b2-84067ba7bf53?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+      "url": "https://www.dreamworkhq.com/job/48006ab9-5341-4a0f-a0f1-e25e70a70f66?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "4af0bbda-f572-419f-89a5-f4c84716bde7",
@@ -2225,51 +2210,6 @@
       "url": "https://www.dreamworkhq.com/job/45b541c0-546d-41e0-a85b-975c6c42602f?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "009adcc1-6255-4051-a655-472496462c0c",
-      "title": "Junior - medior Data engineer",
-      "company": "EDITX BV",
-      "companyDomain": "lemon.tech",
-      "location": "Flemish Brabant, Belgium",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-06T06:15:42.547Z",
-      "firstIndexedAt": "2026-08-10T04:31:08.318Z",
-      "url": "https://www.dreamworkhq.com/job/009adcc1-6255-4051-a655-472496462c0c?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
-      "id": "149d9ff9-5f09-47a0-83dd-fc210984b17f",
-      "title": "Data Engineer",
-      "company": "AG Digipolis Antwerpen AUTOGEMB",
-      "companyDomain": null,
-      "location": "Antwerp, Belgium",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-04T08:15:50.082Z",
-      "firstIndexedAt": "2026-08-10T04:31:08.318Z",
-      "url": "https://www.dreamworkhq.com/job/149d9ff9-5f09-47a0-83dd-fc210984b17f?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
-      "id": "28f7d945-7c53-43af-bb48-88914eaadcf4",
-      "title": "Data Engineer",
-      "company": "VLAAMSE MILIEUMAATSCHAPPIJ VLGEWGEM",
-      "companyDomain": "vmm.be",
-      "location": "East Flanders, Belgium",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-04T06:15:27.648Z",
-      "firstIndexedAt": "2026-08-10T04:31:08.318Z",
-      "url": "https://www.dreamworkhq.com/job/28f7d945-7c53-43af-bb48-88914eaadcf4?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
       "id": "2bcd1cd3-34f0-4dff-811d-2aa0b95c7f54",
       "title": "Data Engineer",
       "company": "MENSURA Service Externe de Prévention et de Protection au travail VZW",
@@ -2283,141 +2223,6 @@
       "postedAt": "2026-08-06T07:15:33.063Z",
       "firstIndexedAt": "2026-08-10T04:31:08.318Z",
       "url": "https://www.dreamworkhq.com/job/2bcd1cd3-34f0-4dff-811d-2aa0b95c7f54?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
-      "id": "3299143a-7b6c-44e4-b01d-c256a11e3f1e",
-      "title": "Data Engineer",
-      "company": "HOUSE OF RECRUITMENT SOLUTIONS BV",
-      "companyDomain": "goflow.be",
-      "location": "Antwerp, Belgium",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-04T08:16:08.370Z",
-      "firstIndexedAt": "2026-08-10T04:31:08.318Z",
-      "url": "https://www.dreamworkhq.com/job/3299143a-7b6c-44e4-b01d-c256a11e3f1e?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
-      "id": "5a18752b-755b-41d0-b694-918ebc033438",
-      "title": "Data Engineer – Kafka & Elasticsearch",
-      "company": "EDITX BV",
-      "companyDomain": "lemon.tech",
-      "location": "Brussels, Belgium",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-05T06:15:17.788Z",
-      "firstIndexedAt": "2026-08-10T04:31:08.318Z",
-      "url": "https://www.dreamworkhq.com/job/5a18752b-755b-41d0-b694-918ebc033438?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
-      "id": "61298d55-fc09-4c5b-b3f1-6ee0fafd0223",
-      "title": "Freelance Senior Data Engineer",
-      "company": "VTS Consulting BVBA",
-      "companyDomain": null,
-      "location": "Antwerp, Belgium",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-07T11:15:34.267Z",
-      "firstIndexedAt": "2026-08-10T04:31:08.318Z",
-      "url": "https://www.dreamworkhq.com/job/61298d55-fc09-4c5b-b3f1-6ee0fafd0223?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
-      "id": "7004b082-be28-4223-a73f-97c4dbb85846",
-      "title": "Data Engineer (MS Fabric)",
-      "company": "HOUSE OF RECRUITMENT SOLUTIONS BV",
-      "companyDomain": "goflow.be",
-      "location": "Hainaut, Belgium",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-05T11:15:38.647Z",
-      "firstIndexedAt": "2026-08-10T04:31:08.318Z",
-      "url": "https://www.dreamworkhq.com/job/7004b082-be28-4223-a73f-97c4dbb85846?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
-      "id": "bf1521a3-239d-4dc0-bf28-417fc5c9b970",
-      "title": "Data Engineer (MS Fabric)",
-      "company": "Actief Interim NV",
-      "companyDomain": "actief-interim.be",
-      "location": "Hainaut, Belgium",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-05T10:15:48.402Z",
-      "firstIndexedAt": "2026-08-10T04:31:08.318Z",
-      "url": "https://www.dreamworkhq.com/job/bf1521a3-239d-4dc0-bf28-417fc5c9b970?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
-      "id": "c24bdbcc-2d46-4b30-a361-80ab2b82ac51",
-      "title": "Data Engineer",
-      "company": "EDITX BV",
-      "companyDomain": "lemon.tech",
-      "location": "Antwerp, Belgium",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-05T05:15:13.370Z",
-      "firstIndexedAt": "2026-08-10T04:31:08.318Z",
-      "url": "https://www.dreamworkhq.com/job/c24bdbcc-2d46-4b30-a361-80ab2b82ac51?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
-      "id": "d690c5b6-ab6f-4c45-ac32-e02a2a218f11",
-      "title": "Data Engineer Health Sector",
-      "company": "The Stepstone Group Belgium NV",
-      "companyDomain": "stepstone.be",
-      "location": "Brussels, Belgium",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-07T02:15:28.389Z",
-      "firstIndexedAt": "2026-08-10T04:31:08.318Z",
-      "url": "https://www.dreamworkhq.com/job/d690c5b6-ab6f-4c45-ac32-e02a2a218f11?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
-      "id": "df604770-4ff9-41ac-b873-f3aaf23d99fa",
-      "title": "Data Engineer",
-      "company": "RED POPPY BV",
-      "companyDomain": null,
-      "location": "West Flanders, Belgium",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-04T13:15:46.374Z",
-      "firstIndexedAt": "2026-08-10T04:31:08.318Z",
-      "url": "https://www.dreamworkhq.com/job/df604770-4ff9-41ac-b873-f3aaf23d99fa?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
-      "id": "f59287bd-415a-42be-9fe4-1e7e77ffe891",
-      "title": "Data engineer",
-      "company": "Solidaris - nationaal verbond van socialistische mutualiteiten",
-      "companyDomain": "solidaris.be",
-      "location": "Brussels, Belgium",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-05T07:15:48.601Z",
-      "firstIndexedAt": "2026-08-10T04:31:08.318Z",
-      "url": "https://www.dreamworkhq.com/job/f59287bd-415a-42be-9fe4-1e7e77ffe891?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "394104ec-109d-4a66-a6cb-96b92b2eff1c",
@@ -2435,6 +2240,156 @@
       "url": "https://www.dreamworkhq.com/job/394104ec-109d-4a66-a6cb-96b92b2eff1c?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
+      "id": "61298d55-fc09-4c5b-b3f1-6ee0fafd0223",
+      "title": "Freelance Senior Data Engineer",
+      "company": "VTS Consulting BVBA",
+      "companyDomain": null,
+      "location": "Antwerp, Belgium",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-07T11:15:34.267Z",
+      "firstIndexedAt": "2026-08-10T04:31:08.318Z",
+      "url": "https://www.dreamworkhq.com/job/61298d55-fc09-4c5b-b3f1-6ee0fafd0223?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "009adcc1-6255-4051-a655-472496462c0c",
+      "title": "Junior - medior Data engineer",
+      "company": "EDITX BV",
+      "companyDomain": "lemon.tech",
+      "location": "Flemish Brabant, Belgium",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-06T06:15:42.547Z",
+      "firstIndexedAt": "2026-08-10T04:31:08.318Z",
+      "url": "https://www.dreamworkhq.com/job/009adcc1-6255-4051-a655-472496462c0c?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "d690c5b6-ab6f-4c45-ac32-e02a2a218f11",
+      "title": "Data Engineer Health Sector",
+      "company": "The Stepstone Group Belgium NV",
+      "companyDomain": "stepstone.be",
+      "location": "Brussels, Belgium",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-07T02:15:28.389Z",
+      "firstIndexedAt": "2026-08-10T04:31:08.318Z",
+      "url": "https://www.dreamworkhq.com/job/d690c5b6-ab6f-4c45-ac32-e02a2a218f11?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "3299143a-7b6c-44e4-b01d-c256a11e3f1e",
+      "title": "Data Engineer",
+      "company": "HOUSE OF RECRUITMENT SOLUTIONS BV",
+      "companyDomain": "goflow.be",
+      "location": "Antwerp, Belgium",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-04T08:16:08.370Z",
+      "firstIndexedAt": "2026-08-10T04:31:08.318Z",
+      "url": "https://www.dreamworkhq.com/job/3299143a-7b6c-44e4-b01d-c256a11e3f1e?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "c24bdbcc-2d46-4b30-a361-80ab2b82ac51",
+      "title": "Data Engineer",
+      "company": "EDITX BV",
+      "companyDomain": "lemon.tech",
+      "location": "Antwerp, Belgium",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-05T05:15:13.370Z",
+      "firstIndexedAt": "2026-08-10T04:31:08.318Z",
+      "url": "https://www.dreamworkhq.com/job/c24bdbcc-2d46-4b30-a361-80ab2b82ac51?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "bf1521a3-239d-4dc0-bf28-417fc5c9b970",
+      "title": "Data Engineer (MS Fabric)",
+      "company": "Actief Interim NV",
+      "companyDomain": "actief-interim.be",
+      "location": "Hainaut, Belgium",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-05T10:15:48.402Z",
+      "firstIndexedAt": "2026-08-10T04:31:08.318Z",
+      "url": "https://www.dreamworkhq.com/job/bf1521a3-239d-4dc0-bf28-417fc5c9b970?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "df604770-4ff9-41ac-b873-f3aaf23d99fa",
+      "title": "Data Engineer",
+      "company": "RED POPPY BV",
+      "companyDomain": null,
+      "location": "West Flanders, Belgium",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-04T13:15:46.374Z",
+      "firstIndexedAt": "2026-08-10T04:31:08.318Z",
+      "url": "https://www.dreamworkhq.com/job/df604770-4ff9-41ac-b873-f3aaf23d99fa?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "149d9ff9-5f09-47a0-83dd-fc210984b17f",
+      "title": "Data Engineer",
+      "company": "AG Digipolis Antwerpen AUTOGEMB",
+      "companyDomain": null,
+      "location": "Antwerp, Belgium",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-04T08:15:50.082Z",
+      "firstIndexedAt": "2026-08-10T04:31:08.318Z",
+      "url": "https://www.dreamworkhq.com/job/149d9ff9-5f09-47a0-83dd-fc210984b17f?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "f59287bd-415a-42be-9fe4-1e7e77ffe891",
+      "title": "Data engineer",
+      "company": "Solidaris - nationaal verbond van socialistische mutualiteiten",
+      "companyDomain": "solidaris.be",
+      "location": "Brussels, Belgium",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-05T07:15:48.601Z",
+      "firstIndexedAt": "2026-08-10T04:31:08.318Z",
+      "url": "https://www.dreamworkhq.com/job/f59287bd-415a-42be-9fe4-1e7e77ffe891?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "28f7d945-7c53-43af-bb48-88914eaadcf4",
+      "title": "Data Engineer",
+      "company": "VLAAMSE MILIEUMAATSCHAPPIJ VLGEWGEM",
+      "companyDomain": "vmm.be",
+      "location": "East Flanders, Belgium",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-04T06:15:27.648Z",
+      "firstIndexedAt": "2026-08-10T04:31:08.318Z",
+      "url": "https://www.dreamworkhq.com/job/28f7d945-7c53-43af-bb48-88914eaadcf4?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
       "id": "5dcf1fab-8002-4fbc-b133-a2efeebeddcd",
       "title": "Data Engineer - Microsoft Fabric / Azure",
       "company": "The Stepstone Group Belgium NV",
@@ -2448,6 +2403,36 @@
       "postedAt": "2026-08-08T02:15:27.053Z",
       "firstIndexedAt": "2026-08-10T04:31:08.318Z",
       "url": "https://www.dreamworkhq.com/job/5dcf1fab-8002-4fbc-b133-a2efeebeddcd?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "5a18752b-755b-41d0-b694-918ebc033438",
+      "title": "Data Engineer – Kafka & Elasticsearch",
+      "company": "EDITX BV",
+      "companyDomain": "lemon.tech",
+      "location": "Brussels, Belgium",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-05T06:15:17.788Z",
+      "firstIndexedAt": "2026-08-10T04:31:08.318Z",
+      "url": "https://www.dreamworkhq.com/job/5a18752b-755b-41d0-b694-918ebc033438?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "7004b082-be28-4223-a73f-97c4dbb85846",
+      "title": "Data Engineer (MS Fabric)",
+      "company": "HOUSE OF RECRUITMENT SOLUTIONS BV",
+      "companyDomain": "goflow.be",
+      "location": "Hainaut, Belgium",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-05T11:15:38.647Z",
+      "firstIndexedAt": "2026-08-10T04:31:08.318Z",
+      "url": "https://www.dreamworkhq.com/job/7004b082-be28-4223-a73f-97c4dbb85846?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "9ba7ecea-b785-4b77-a4c5-a4ce1aee8e6a",
@@ -2495,19 +2480,19 @@
       "url": "https://www.dreamworkhq.com/job/8ea3c2b2-6257-4dea-949b-14aabfe2ffbc?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "61c0950c-f657-45d3-bb3a-513e66c4e37a",
-      "title": "Data engineer - Technology consulting",
+      "id": "4e6a365b-516d-4988-b16f-b0147fa9d4c0",
+      "title": "Acceleration Center - Data Engineer - Manager",
       "company": "Pwc",
       "companyDomain": "pwc.com",
-      "location": "Prague",
-      "remoteType": "hybrid",
+      "location": "Mexico City",
+      "remoteType": "onsite",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-05T22:34:05.905Z",
+      "postedAt": "2026-08-07T22:34:04.497Z",
       "firstIndexedAt": "2026-08-10T04:04:30.307Z",
-      "url": "https://www.dreamworkhq.com/job/61c0950c-f657-45d3-bb3a-513e66c4e37a?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+      "url": "https://www.dreamworkhq.com/job/4e6a365b-516d-4988-b16f-b0147fa9d4c0?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "4aeb6ece-46c3-4c9e-86b6-32dd3b89b0d1",
@@ -2525,21 +2510,6 @@
       "url": "https://www.dreamworkhq.com/job/4aeb6ece-46c3-4c9e-86b6-32dd3b89b0d1?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "4e6a365b-516d-4988-b16f-b0147fa9d4c0",
-      "title": "Acceleration Center - Data Engineer - Manager",
-      "company": "Pwc",
-      "companyDomain": "pwc.com",
-      "location": "Mexico City",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-07T22:34:04.497Z",
-      "firstIndexedAt": "2026-08-10T04:04:30.307Z",
-      "url": "https://www.dreamworkhq.com/job/4e6a365b-516d-4988-b16f-b0147fa9d4c0?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
       "id": "b0ff021a-81ef-4ce2-a2b5-0dddba8e7615",
       "title": "IN_Senior Associate_Azure Data Engineer with Microsoft Fabric Analytics Engineer_Data and Analytics_Advisory_Bangalore",
       "company": "Pwc",
@@ -2553,6 +2523,21 @@
       "postedAt": "2026-08-06T09:04:20.243Z",
       "firstIndexedAt": "2026-08-10T04:04:30.307Z",
       "url": "https://www.dreamworkhq.com/job/b0ff021a-81ef-4ce2-a2b5-0dddba8e7615?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "61c0950c-f657-45d3-bb3a-513e66c4e37a",
+      "title": "Data engineer - Technology consulting",
+      "company": "Pwc",
+      "companyDomain": "pwc.com",
+      "location": "Prague",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-05T22:34:05.905Z",
+      "firstIndexedAt": "2026-08-10T04:04:30.307Z",
+      "url": "https://www.dreamworkhq.com/job/61c0950c-f657-45d3-bb3a-513e66c4e37a?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "e3e4f72f-7b41-4a1a-88e6-6c86916b5068",
@@ -2570,21 +2555,6 @@
       "url": "https://www.dreamworkhq.com/job/e3e4f72f-7b41-4a1a-88e6-6c86916b5068?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "93475544-9930-48d0-99fb-880a01481a94",
-      "title": "Senior MDM Data Engineer",
-      "company": "Amgen",
-      "companyDomain": "amgen.com",
-      "location": "India - Hyderabad",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-06T20:01:41.630Z",
-      "firstIndexedAt": "2026-08-10T04:03:35.227Z",
-      "url": "https://www.dreamworkhq.com/job/93475544-9930-48d0-99fb-880a01481a94?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
       "id": "e33908da-b507-4e08-bb89-e372039abb27",
       "title": "Sr Data Engineer",
       "company": "Amgen",
@@ -2598,6 +2568,21 @@
       "postedAt": "2026-08-07T20:01:40.887Z",
       "firstIndexedAt": "2026-08-10T04:03:35.227Z",
       "url": "https://www.dreamworkhq.com/job/e33908da-b507-4e08-bb89-e372039abb27?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "93475544-9930-48d0-99fb-880a01481a94",
+      "title": "Senior MDM Data Engineer",
+      "company": "Amgen",
+      "companyDomain": "amgen.com",
+      "location": "India - Hyderabad",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-06T20:01:41.630Z",
+      "firstIndexedAt": "2026-08-10T04:03:35.227Z",
+      "url": "https://www.dreamworkhq.com/job/93475544-9930-48d0-99fb-880a01481a94?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "ada9f9ae-7562-4764-8672-8c6ac905f212",
@@ -2615,19 +2600,19 @@
       "url": "https://www.dreamworkhq.com/job/ada9f9ae-7562-4764-8672-8c6ac905f212?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "0ced48a9-329d-473b-9c61-4e4cd7d0dd7b",
+      "id": "1582db6e-3c86-4bff-b282-e5014e954248",
       "title": "Data Engineer III/Senior (Analytics)",
       "company": "Expeditors",
       "companyDomain": "expeditors.com",
-      "location": "Edison, NJ, United States",
+      "location": "Irving, TX, United States",
       "remoteType": "onsite",
       "salaryMin": 130000,
       "salaryMax": 170000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-07T18:42:03.517Z",
+      "postedAt": "2026-08-07T18:41:24.275Z",
       "firstIndexedAt": "2026-08-10T04:00:21.798Z",
-      "url": "https://www.dreamworkhq.com/job/0ced48a9-329d-473b-9c61-4e4cd7d0dd7b?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+      "url": "https://www.dreamworkhq.com/job/1582db6e-3c86-4bff-b282-e5014e954248?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "01f4defd-fda3-4c7b-b9f5-bbc11507d22e",
@@ -2645,6 +2630,21 @@
       "url": "https://www.dreamworkhq.com/job/01f4defd-fda3-4c7b-b9f5-bbc11507d22e?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
+      "id": "0ced48a9-329d-473b-9c61-4e4cd7d0dd7b",
+      "title": "Data Engineer III/Senior (Analytics)",
+      "company": "Expeditors",
+      "companyDomain": "expeditors.com",
+      "location": "Edison, NJ, United States",
+      "remoteType": "onsite",
+      "salaryMin": 130000,
+      "salaryMax": 170000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-07T18:42:03.517Z",
+      "firstIndexedAt": "2026-08-10T04:00:21.798Z",
+      "url": "https://www.dreamworkhq.com/job/0ced48a9-329d-473b-9c61-4e4cd7d0dd7b?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
       "id": "ba5dadb0-0b87-44b9-8ad7-d14da79e97ee",
       "title": "Data Engineer III/Senior (Analytics)",
       "company": "Expeditors",
@@ -2658,21 +2658,6 @@
       "postedAt": "2026-08-07T18:40:48.190Z",
       "firstIndexedAt": "2026-08-10T04:00:21.798Z",
       "url": "https://www.dreamworkhq.com/job/ba5dadb0-0b87-44b9-8ad7-d14da79e97ee?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
-      "id": "1582db6e-3c86-4bff-b282-e5014e954248",
-      "title": "Data Engineer III/Senior (Analytics)",
-      "company": "Expeditors",
-      "companyDomain": "expeditors.com",
-      "location": "Irving, TX, United States",
-      "remoteType": "onsite",
-      "salaryMin": 130000,
-      "salaryMax": 170000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-07T18:41:24.275Z",
-      "firstIndexedAt": "2026-08-10T04:00:21.798Z",
-      "url": "https://www.dreamworkhq.com/job/1582db6e-3c86-4bff-b282-e5014e954248?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "7b313fe5-6490-49ad-9e5c-280f5a0dc50c",
@@ -2720,21 +2705,6 @@
       "url": "https://www.dreamworkhq.com/job/0755abad-2f6a-4b87-91d2-9f56b3a291c2?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "6bb63a55-2f35-4956-afa8-9e81d921356e",
-      "title": "Staff Data Engineer",
-      "company": "Cba",
-      "companyDomain": "commbank.com.au",
-      "location": "Sydney CBD Area",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-10T19:45:32.772Z",
-      "firstIndexedAt": "2026-08-10T03:45:24.588Z",
-      "url": "https://www.dreamworkhq.com/job/6bb63a55-2f35-4956-afa8-9e81d921356e?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
       "id": "bf75345c-c1ef-4656-90b9-74108fd44d53",
       "title": "Staff Data Engineer",
       "company": "Cba",
@@ -2748,6 +2718,21 @@
       "postedAt": "2026-08-07T19:45:33.089Z",
       "firstIndexedAt": "2026-08-10T03:45:24.588Z",
       "url": "https://www.dreamworkhq.com/job/bf75345c-c1ef-4656-90b9-74108fd44d53?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "6bb63a55-2f35-4956-afa8-9e81d921356e",
+      "title": "Staff Data Engineer",
+      "company": "Cba",
+      "companyDomain": "commbank.com.au",
+      "location": "Sydney CBD Area",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-08-10T19:45:32.772Z",
+      "firstIndexedAt": "2026-08-10T03:45:24.588Z",
+      "url": "https://www.dreamworkhq.com/job/6bb63a55-2f35-4956-afa8-9e81d921356e?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "752688dc-0f7d-4c35-93aa-79e596613c86",
@@ -2825,21 +2810,6 @@
       "url": "https://www.dreamworkhq.com/job/47bc8081-c067-4262-bd72-f18e18d8fd3f?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "cc683f7c-da61-40ca-9d40-da8fc53c3efd",
-      "title": "IT Data & Analytics Engineering ",
-      "company": "1000",
-      "companyDomain": "1000company.com.br",
-      "location": "MEXICO CITY GENERAL OFFICE",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-05T17:01:07.480Z",
-      "firstIndexedAt": "2026-08-10T00:45:46.698Z",
-      "url": "https://www.dreamworkhq.com/job/cc683f7c-da61-40ca-9d40-da8fc53c3efd?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
       "id": "98ead36c-c50c-41f1-9f06-027889dca055",
       "title": "Data Engineer",
       "company": "1000",
@@ -2868,6 +2838,21 @@
       "postedAt": "2026-08-07T17:01:07.296Z",
       "firstIndexedAt": "2026-08-10T00:45:46.698Z",
       "url": "https://www.dreamworkhq.com/job/d86e888b-406d-445c-a096-4f4423ede86c?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "cc683f7c-da61-40ca-9d40-da8fc53c3efd",
+      "title": "IT Data & Analytics Engineering ",
+      "company": "1000",
+      "companyDomain": "1000company.com.br",
+      "location": "MEXICO CITY GENERAL OFFICE",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-05T17:01:07.480Z",
+      "firstIndexedAt": "2026-08-10T00:45:46.698Z",
+      "url": "https://www.dreamworkhq.com/job/cc683f7c-da61-40ca-9d40-da8fc53c3efd?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "e60d50d8-7440-40bd-8c77-541614298a00",
@@ -3110,6 +3095,21 @@
       "url": "https://www.dreamworkhq.com/job/86b6d0ac-0f7a-4fc9-83ff-f9e25c147897?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
+      "id": "6b31e1d8-90df-4651-947b-dd888893e072",
+      "title": "Lead Data Engineer - Data Engineering 4C",
+      "company": "Genpact",
+      "companyDomain": "genpact.com",
+      "location": "1401-G-India: 1st floor Nyati tech park, Pune",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-08-05T11:46:40.917Z",
+      "firstIndexedAt": "2026-08-09T22:16:44.165Z",
+      "url": "https://www.dreamworkhq.com/job/6b31e1d8-90df-4651-947b-dd888893e072?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
       "id": "5778eddf-dfd2-4909-abac-6c5dae490a2d",
       "title": "Data Architect - Data Engineering 4D",
       "company": "Genpact",
@@ -3138,36 +3138,6 @@
       "postedAt": "2026-08-05T11:46:41.472Z",
       "firstIndexedAt": "2026-08-09T22:16:44.165Z",
       "url": "https://www.dreamworkhq.com/job/64d08e83-32f2-45a9-8943-dc168e4237f9?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
-      "id": "6b31e1d8-90df-4651-947b-dd888893e072",
-      "title": "Lead Data Engineer - Data Engineering 4C",
-      "company": "Genpact",
-      "companyDomain": "genpact.com",
-      "location": "1401-G-India: 1st floor Nyati tech park, Pune",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-05T11:46:40.917Z",
-      "firstIndexedAt": "2026-08-09T22:16:44.165Z",
-      "url": "https://www.dreamworkhq.com/job/6b31e1d8-90df-4651-947b-dd888893e072?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
-      "id": "bbb5abfe-aca2-4a98-836d-fc147224db2d",
-      "title": "Lead Data Engineer - Data Engineering 4C",
-      "company": "Genpact",
-      "companyDomain": "genpact.com",
-      "location": "1401-G-India: Floor 1 to 12, Hafeezpet Phoenix, Hyderabad",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-07T11:46:37.877Z",
-      "firstIndexedAt": "2026-08-09T22:16:42.916Z",
-      "url": "https://www.dreamworkhq.com/job/bbb5abfe-aca2-4a98-836d-fc147224db2d?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "c2d3dcb9-45df-4818-8866-e76a2061b78f",
@@ -3200,6 +3170,21 @@
       "url": "https://www.dreamworkhq.com/job/792336c6-2aae-4b4e-8c9e-481f63af4e7f?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
+      "id": "bbb5abfe-aca2-4a98-836d-fc147224db2d",
+      "title": "Lead Data Engineer - Data Engineering 4C",
+      "company": "Genpact",
+      "companyDomain": "genpact.com",
+      "location": "1401-G-India: Floor 1 to 12, Hafeezpet Phoenix, Hyderabad",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-08-07T11:46:37.877Z",
+      "firstIndexedAt": "2026-08-09T22:16:42.916Z",
+      "url": "https://www.dreamworkhq.com/job/bbb5abfe-aca2-4a98-836d-fc147224db2d?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
       "id": "bae694bf-90a5-4709-bbcc-82e81c1ba03c",
       "title": "INSAR Geospatial Data Platform Engineer",
       "company": "Leonardocompany",
@@ -3210,7 +3195,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-04T15:30:56.833Z",
+      "postedAt": "2026-08-05T03:46:02.939Z",
       "firstIndexedAt": "2026-08-09T21:45:55.187Z",
       "url": "https://www.dreamworkhq.com/job/bae694bf-90a5-4709-bbcc-82e81c1ba03c?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
@@ -3260,21 +3245,6 @@
       "url": "https://www.dreamworkhq.com/job/3854f8a6-d543-4d48-b846-f6be06e0461c?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "f07d9dc3-d6cf-48e6-a00b-d6872f1a2cb4",
-      "title": "Analytics Engineer, Data",
-      "company": "Tailscale",
-      "companyDomain": "tailscale.com",
-      "location": "Remote (Canada)",
-      "remoteType": "remote",
-      "salaryMin": 149000,
-      "salaryMax": 186000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-04T18:21:41.000Z",
-      "firstIndexedAt": "2026-08-09T19:00:18.238Z",
-      "url": "https://www.dreamworkhq.com/job/f07d9dc3-d6cf-48e6-a00b-d6872f1a2cb4?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
       "id": "997d020f-5894-4154-a533-0eaa59348bc5",
       "title": "Analytics Engineer, Data",
       "company": "Tailscale",
@@ -3288,6 +3258,21 @@
       "postedAt": "2026-08-04T18:21:42.000Z",
       "firstIndexedAt": "2026-08-09T19:00:18.238Z",
       "url": "https://www.dreamworkhq.com/job/997d020f-5894-4154-a533-0eaa59348bc5?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "f07d9dc3-d6cf-48e6-a00b-d6872f1a2cb4",
+      "title": "Analytics Engineer, Data",
+      "company": "Tailscale",
+      "companyDomain": "tailscale.com",
+      "location": "Remote (Canada)",
+      "remoteType": "remote",
+      "salaryMin": 149000,
+      "salaryMax": 186000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-04T18:21:41.000Z",
+      "firstIndexedAt": "2026-08-09T19:00:18.238Z",
+      "url": "https://www.dreamworkhq.com/job/f07d9dc3-d6cf-48e6-a00b-d6872f1a2cb4?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "b87fcad3-4489-4c09-adad-51d2982ef85c",
@@ -3420,24 +3405,24 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-05T02:45:39.037Z",
+      "postedAt": "2026-08-05T03:00:46.651Z",
       "firstIndexedAt": "2026-08-09T13:15:43.912Z",
       "url": "https://www.dreamworkhq.com/job/e8271ad5-d68a-4445-bc8d-4925a8eb089f?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "8a5e852e-7a93-44cc-8e12-d25704e777c7",
-      "title": "Senior Data Engineering Manager",
+      "id": "9a9a1227-753c-4985-9129-e4b81df28754",
+      "title": "Sr. Data Engineer - CX Analytics",
       "company": "Unum",
       "companyDomain": "unum.co.uk",
-      "location": "Dorking, Surrey, UK",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-06T02:30:19.846Z",
+      "location": "Portland, Maine, USA",
+      "remoteType": "onsite",
+      "salaryMin": 89400,
+      "salaryMax": 183500,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-08-07T02:30:19.579Z",
       "firstIndexedAt": "2026-08-09T13:00:13.320Z",
-      "url": "https://www.dreamworkhq.com/job/8a5e852e-7a93-44cc-8e12-d25704e777c7?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+      "url": "https://www.dreamworkhq.com/job/9a9a1227-753c-4985-9129-e4b81df28754?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "49cc6b1a-e9b3-40ef-8eff-6e12549ab8ad",
@@ -3455,19 +3440,19 @@
       "url": "https://www.dreamworkhq.com/job/49cc6b1a-e9b3-40ef-8eff-6e12549ab8ad?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "9a9a1227-753c-4985-9129-e4b81df28754",
-      "title": "Sr. Data Engineer - CX Analytics",
+      "id": "8a5e852e-7a93-44cc-8e12-d25704e777c7",
+      "title": "Senior Data Engineering Manager",
       "company": "Unum",
       "companyDomain": "unum.co.uk",
-      "location": "Portland, Maine, USA",
-      "remoteType": "onsite",
-      "salaryMin": 89400,
-      "salaryMax": 183500,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-07T02:30:19.579Z",
+      "location": "Dorking, Surrey, UK",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-06T02:30:19.846Z",
       "firstIndexedAt": "2026-08-09T13:00:13.320Z",
-      "url": "https://www.dreamworkhq.com/job/9a9a1227-753c-4985-9129-e4b81df28754?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+      "url": "https://www.dreamworkhq.com/job/8a5e852e-7a93-44cc-8e12-d25704e777c7?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "f50ca904-3c9f-4444-9da3-eab533f98aeb",
@@ -3618,21 +3603,6 @@
       "postedAt": "2026-08-03T00:00:00.000Z",
       "firstIndexedAt": "2026-08-09T11:33:58.332Z",
       "url": "https://www.dreamworkhq.com/job/c972fccc-9934-45de-8b20-fdd011c3bc42?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
-      "id": "6c433503-3a83-4165-8c77-52c846278b48",
-      "title": "Data Engineer I, SPIV Data Engineering",
-      "company": "Amazon",
-      "companyDomain": "amazon.com",
-      "location": "IN, KA, Bengaluru",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-03T00:00:00.000Z",
-      "firstIndexedAt": "2026-08-09T11:33:48.410Z",
-      "url": "https://www.dreamworkhq.com/job/6c433503-3a83-4165-8c77-52c846278b48?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "e1f9665e-e0d0-45ad-ac4d-8212092c0db1",
@@ -3980,19 +3950,19 @@
       "url": "https://www.dreamworkhq.com/job/991030e5-5dd0-473c-a75e-8aa3eeb6cae6?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "c8d4bfbe-60fe-4e2f-bfd5-816988dece9e",
-      "title": "Data Engineer",
+      "id": "e1182fe5-49ec-4632-b122-ae706175270c",
+      "title": "Data Engineer Communicatie en Informatiesystemen Operaties (CISOPS)",
       "company": "EURES Netherlands (Professional)",
       "companyDomain": "autodisk.nl",
-      "location": "Netherlands",
-      "remoteType": "hybrid",
-      "salaryMin": 45000,
-      "salaryMax": 71000,
+      "location": "Overijssel, Netherlands",
+      "remoteType": "onsite",
+      "salaryMin": 47000,
+      "salaryMax": 74000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-09T01:11:35.082Z",
+      "postedAt": "2026-08-09T01:11:56.514Z",
       "firstIndexedAt": "2026-08-09T10:31:30.572Z",
-      "url": "https://www.dreamworkhq.com/job/c8d4bfbe-60fe-4e2f-bfd5-816988dece9e?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+      "url": "https://www.dreamworkhq.com/job/e1182fe5-49ec-4632-b122-ae706175270c?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "49490564-48a8-430a-ae0d-d78715c30b52",
@@ -4010,19 +3980,34 @@
       "url": "https://www.dreamworkhq.com/job/49490564-48a8-430a-ae0d-d78715c30b52?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "e1182fe5-49ec-4632-b122-ae706175270c",
-      "title": "Data Engineer Communicatie en Informatiesystemen Operaties (CISOPS)",
+      "id": "a3eec86e-7b69-45c7-b0c7-c1a34e9ad432",
+      "title": "Data engineer (in opleiding)",
       "company": "EURES Netherlands (Professional)",
       "companyDomain": "autodisk.nl",
-      "location": "Overijssel, Netherlands",
-      "remoteType": "onsite",
-      "salaryMin": 47000,
-      "salaryMax": 74000,
+      "location": "Gelderland, Netherlands",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-09T01:11:50.010Z",
+      "firstIndexedAt": "2026-08-09T10:31:30.572Z",
+      "url": "https://www.dreamworkhq.com/job/a3eec86e-7b69-45c7-b0c7-c1a34e9ad432?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "c8d4bfbe-60fe-4e2f-bfd5-816988dece9e",
+      "title": "Data Engineer",
+      "company": "EURES Netherlands (Professional)",
+      "companyDomain": "autodisk.nl",
+      "location": "Netherlands",
+      "remoteType": "hybrid",
+      "salaryMin": 45000,
+      "salaryMax": 71000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-09T01:11:56.514Z",
+      "postedAt": "2026-08-09T01:11:35.082Z",
       "firstIndexedAt": "2026-08-09T10:31:30.572Z",
-      "url": "https://www.dreamworkhq.com/job/e1182fe5-49ec-4632-b122-ae706175270c?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+      "url": "https://www.dreamworkhq.com/job/c8d4bfbe-60fe-4e2f-bfd5-816988dece9e?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "14d6290e-fc9f-4701-afc9-153798930a12",
@@ -4038,21 +4023,6 @@
       "postedAt": "2026-08-09T01:11:40.169Z",
       "firstIndexedAt": "2026-08-09T10:31:30.572Z",
       "url": "https://www.dreamworkhq.com/job/14d6290e-fc9f-4701-afc9-153798930a12?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
-      "id": "a3eec86e-7b69-45c7-b0c7-c1a34e9ad432",
-      "title": "Data engineer (in opleiding)",
-      "company": "EURES Netherlands (Professional)",
-      "companyDomain": "autodisk.nl",
-      "location": "Gelderland, Netherlands",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-09T01:11:50.010Z",
-      "firstIndexedAt": "2026-08-09T10:31:30.572Z",
-      "url": "https://www.dreamworkhq.com/job/a3eec86e-7b69-45c7-b0c7-c1a34e9ad432?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "fe6e23dc-4309-4608-b8ae-f8126bedee1e",
@@ -4095,7 +4065,7 @@
       "salaryMax": 118000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-07T00:15:28.123Z",
+      "postedAt": "2026-08-07T03:00:18.395Z",
       "firstIndexedAt": "2026-08-09T10:15:35.028Z",
       "url": "https://www.dreamworkhq.com/job/a3e51726-af6d-4c15-bb9a-057b1bbd4c6c?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
@@ -4235,21 +4205,6 @@
       "url": "https://www.dreamworkhq.com/job/cdeb298a-6896-4057-9246-00ccff0335bb?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "c091bd1c-aae5-49fc-8caa-d24fa92e2983",
-      "title": "AWS Data Engineer - 80% thuiswerk",
-      "company": "EDITX BV",
-      "companyDomain": "lemon.tech",
-      "location": "Brussels, Belgium",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-31T09:15:35.646Z",
-      "firstIndexedAt": "2026-08-09T08:15:42.280Z",
-      "url": "https://www.dreamworkhq.com/job/c091bd1c-aae5-49fc-8caa-d24fa92e2983?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
       "id": "794dac60-0884-4e72-855c-b6c87d358a58",
       "title": "Data Engineer",
       "company": "Federaal Agentschap voor de Opvang van Asielzoekers OI",
@@ -4263,6 +4218,21 @@
       "postedAt": "2026-07-31T13:15:38.642Z",
       "firstIndexedAt": "2026-08-09T08:15:42.280Z",
       "url": "https://www.dreamworkhq.com/job/794dac60-0884-4e72-855c-b6c87d358a58?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "c091bd1c-aae5-49fc-8caa-d24fa92e2983",
+      "title": "AWS Data Engineer - 80% thuiswerk",
+      "company": "EDITX BV",
+      "companyDomain": "lemon.tech",
+      "location": "Brussels, Belgium",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-07-31T09:15:35.646Z",
+      "firstIndexedAt": "2026-08-09T08:15:42.280Z",
+      "url": "https://www.dreamworkhq.com/job/c091bd1c-aae5-49fc-8caa-d24fa92e2983?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "c2f64522-2b27-4d30-bc2b-ef474c8055b9",
@@ -4370,21 +4340,6 @@
       "url": "https://www.dreamworkhq.com/job/9dcdad0b-ea79-421b-bee0-d64bda80a0d5?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "842dd990-20bf-4b70-be00-619bd6f99c6a",
-      "title": "Senior Data Engineer",
-      "company": "MattelInc",
-      "companyDomain": "mattel.com",
-      "location": "Hyderabad, , India",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-08T11:53:21.102Z",
-      "firstIndexedAt": "2026-08-09T07:00:15.327Z",
-      "url": "https://www.dreamworkhq.com/job/842dd990-20bf-4b70-be00-619bd6f99c6a?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
       "id": "fca7a547-1ffa-477a-b944-9b2098c4d036",
       "title": "Data Engineer Platform and Tools – Google Cloud Platform (GCP)",
       "company": "MattelInc",
@@ -4398,6 +4353,21 @@
       "postedAt": "2026-08-08T00:10:06.469Z",
       "firstIndexedAt": "2026-08-09T07:00:15.327Z",
       "url": "https://www.dreamworkhq.com/job/fca7a547-1ffa-477a-b944-9b2098c4d036?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "842dd990-20bf-4b70-be00-619bd6f99c6a",
+      "title": "Senior Data Engineer",
+      "company": "MattelInc",
+      "companyDomain": "mattel.com",
+      "location": "Hyderabad, , India",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-08T11:53:21.102Z",
+      "firstIndexedAt": "2026-08-09T07:00:15.327Z",
+      "url": "https://www.dreamworkhq.com/job/842dd990-20bf-4b70-be00-619bd6f99c6a?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "4e541490-83eb-4428-8a6c-19632caebbc6",
@@ -4730,19 +4700,19 @@
       "url": "https://www.dreamworkhq.com/job/af3b183a-344e-4bc3-85f6-4ce78a06076f?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "57d35e91-6970-4635-8720-57bfe12b354a",
-      "title": "Senior Lead Software Engineer - CDAO Data Platforms",
+      "id": "b22f5315-76b1-45a9-9fcc-0d50f898be52",
+      "title": "Senior Principal Software Engineer - Cloud, Distributed Systems & Data Platforms",
       "company": "JPMorgan Chase",
       "companyDomain": "careers.jpmorgan.com",
-      "location": "LONDON, United Kingdom",
+      "location": "Bengaluru, Karnataka, India",
       "remoteType": "onsite",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-05T10:08:42.000Z",
+      "aiRoleKind": "ai_enabled",
+      "postedAt": "2026-08-06T11:18:10.000Z",
       "firstIndexedAt": "2026-08-08T23:48:42.703Z",
-      "url": "https://www.dreamworkhq.com/job/57d35e91-6970-4635-8720-57bfe12b354a?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+      "url": "https://www.dreamworkhq.com/job/b22f5315-76b1-45a9-9fcc-0d50f898be52?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "ca28e01d-be49-41ae-b741-d02967e3a6c0",
@@ -4760,21 +4730,6 @@
       "url": "https://www.dreamworkhq.com/job/ca28e01d-be49-41ae-b741-d02967e3a6c0?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "b22f5315-76b1-45a9-9fcc-0d50f898be52",
-      "title": "Senior Principal Software Engineer - Cloud, Distributed Systems & Data Platforms",
-      "company": "JPMorgan Chase",
-      "companyDomain": "careers.jpmorgan.com",
-      "location": "Bengaluru, Karnataka, India",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_enabled",
-      "postedAt": "2026-08-06T11:18:10.000Z",
-      "firstIndexedAt": "2026-08-08T23:48:42.703Z",
-      "url": "https://www.dreamworkhq.com/job/b22f5315-76b1-45a9-9fcc-0d50f898be52?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
       "id": "9e84ab32-f8a8-4422-862a-5b8e0530b884",
       "title": "Senior Lead Scala/Java Software Engineer - CDAO Data Platforms",
       "company": "JPMorgan Chase",
@@ -4788,6 +4743,21 @@
       "postedAt": "2026-08-05T10:03:14.000Z",
       "firstIndexedAt": "2026-08-08T23:48:42.703Z",
       "url": "https://www.dreamworkhq.com/job/9e84ab32-f8a8-4422-862a-5b8e0530b884?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "57d35e91-6970-4635-8720-57bfe12b354a",
+      "title": "Senior Lead Software Engineer - CDAO Data Platforms",
+      "company": "JPMorgan Chase",
+      "companyDomain": "careers.jpmorgan.com",
+      "location": "LONDON, United Kingdom",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-08-05T10:08:42.000Z",
+      "firstIndexedAt": "2026-08-08T23:48:42.703Z",
+      "url": "https://www.dreamworkhq.com/job/57d35e91-6970-4635-8720-57bfe12b354a?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "10c4bdd9-6770-433a-b8b1-a2b5626a2cc8",
@@ -4910,19 +4880,34 @@
       "url": "https://www.dreamworkhq.com/job/196c2b78-d7ee-47bd-90de-177fc2922349?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "e374f931-5810-4064-b6bd-998efd88bc01",
-      "title": "Big Data Engineer",
+      "id": "2125f2af-1e93-4b4e-8f65-646245ba3a10",
+      "title": "Lead Data Engineer",
       "company": "EXL Talent Acquisition Team",
       "companyDomain": "exl.com",
-      "location": "Pittsburgh, Pennsylvania, United States",
+      "location": "United States",
       "remoteType": "hybrid",
-      "salaryMin": 100000,
-      "salaryMax": 130000,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-05T19:24:38.000Z",
+      "firstIndexedAt": "2026-08-08T23:47:42.868Z",
+      "url": "https://www.dreamworkhq.com/job/2125f2af-1e93-4b4e-8f65-646245ba3a10?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "0bdcec96-6a17-4424-8583-a8d1420ce43c",
+      "title": "Data Analytics Engineer",
+      "company": "EXL Talent Acquisition Team",
+      "companyDomain": "exl.com",
+      "location": "San Francisco, California, United States",
+      "remoteType": "hybrid",
+      "salaryMin": 140000,
+      "salaryMax": 155000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-06T16:40:32.000Z",
+      "postedAt": "2026-08-06T19:26:17.000Z",
       "firstIndexedAt": "2026-08-08T23:47:42.868Z",
-      "url": "https://www.dreamworkhq.com/job/e374f931-5810-4064-b6bd-998efd88bc01?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+      "url": "https://www.dreamworkhq.com/job/0bdcec96-6a17-4424-8583-a8d1420ce43c?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "97a86d54-4f19-4d15-930e-d3b69ccb38b8",
@@ -4940,19 +4925,19 @@
       "url": "https://www.dreamworkhq.com/job/97a86d54-4f19-4d15-930e-d3b69ccb38b8?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "2125f2af-1e93-4b4e-8f65-646245ba3a10",
-      "title": "Lead Data Engineer",
+      "id": "e374f931-5810-4064-b6bd-998efd88bc01",
+      "title": "Big Data Engineer",
       "company": "EXL Talent Acquisition Team",
       "companyDomain": "exl.com",
-      "location": "United States",
+      "location": "Pittsburgh, Pennsylvania, United States",
       "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
+      "salaryMin": 100000,
+      "salaryMax": 130000,
+      "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-05T19:24:38.000Z",
+      "postedAt": "2026-08-06T16:40:32.000Z",
       "firstIndexedAt": "2026-08-08T23:47:42.868Z",
-      "url": "https://www.dreamworkhq.com/job/2125f2af-1e93-4b4e-8f65-646245ba3a10?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+      "url": "https://www.dreamworkhq.com/job/e374f931-5810-4064-b6bd-998efd88bc01?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "081f8a1c-07b3-45b0-9156-a89f1df78968",
@@ -4968,21 +4953,6 @@
       "postedAt": "2026-08-05T13:07:57.000Z",
       "firstIndexedAt": "2026-08-08T23:47:42.868Z",
       "url": "https://www.dreamworkhq.com/job/081f8a1c-07b3-45b0-9156-a89f1df78968?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
-      "id": "0bdcec96-6a17-4424-8583-a8d1420ce43c",
-      "title": "Data Analytics Engineer",
-      "company": "EXL Talent Acquisition Team",
-      "companyDomain": "exl.com",
-      "location": "San Francisco, California, United States",
-      "remoteType": "hybrid",
-      "salaryMin": 140000,
-      "salaryMax": 155000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-06T19:26:17.000Z",
-      "firstIndexedAt": "2026-08-08T23:47:42.868Z",
-      "url": "https://www.dreamworkhq.com/job/0bdcec96-6a17-4424-8583-a8d1420ce43c?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "3450bbc0-57ae-4577-a2f2-a7b2d97f811a",
@@ -5045,7 +5015,7 @@
       "url": "https://www.dreamworkhq.com/job/700d0250-38b3-4157-a50f-8924de906984?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "3ba6276e-5015-4c34-a6bc-640761fafa4e",
+      "id": "ea194231-9a66-470a-ab62-d792f8b57d7d",
       "title": "Data and Analytics Engineer , Enablement",
       "company": "Zensar",
       "companyDomain": "zensar.com",
@@ -5055,9 +5025,9 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-05T08:43:51.000Z",
+      "postedAt": "2026-08-05T08:41:34.000Z",
       "firstIndexedAt": "2026-08-08T23:15:35.071Z",
-      "url": "https://www.dreamworkhq.com/job/3ba6276e-5015-4c34-a6bc-640761fafa4e?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+      "url": "https://www.dreamworkhq.com/job/ea194231-9a66-470a-ab62-d792f8b57d7d?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "198318f3-41a0-4b9b-a23d-32a8f997ec96",
@@ -5315,21 +5285,6 @@
       "url": "https://www.dreamworkhq.com/job/7ca155b7-1296-4630-8111-481dd184dd2a?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "866ea3d1-10f5-4822-9ee5-6f6da25b4b28",
-      "title": "Finance Group Data Engineer",
-      "company": "EURES Netherlands (Professional)",
-      "companyDomain": "eraneos.com",
-      "location": "Gelderland, Netherlands",
-      "remoteType": "onsite",
-      "salaryMin": 52000,
-      "salaryMax": 84000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-07T01:12:09.272Z",
-      "firstIndexedAt": "2026-08-08T21:02:10.395Z",
-      "url": "https://www.dreamworkhq.com/job/866ea3d1-10f5-4822-9ee5-6f6da25b4b28?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
       "id": "809e6f4e-d854-40a7-8496-9e82b03277e0",
       "title": "Fabric Data Engineer",
       "company": "EURES Netherlands (Professional)",
@@ -5360,21 +5315,6 @@
       "url": "https://www.dreamworkhq.com/job/da6fd454-31bd-4746-aa6b-cb0c8b22c257?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "d034d27b-650a-4e6a-ab15-11f9dcec34f3",
-      "title": "(Senior) Data Engineer",
-      "company": "EURES Netherlands (Professional)",
-      "companyDomain": "eraneos.com",
-      "location": "Noord-Holland, Netherlands",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-08T01:11:54.946Z",
-      "firstIndexedAt": "2026-08-08T21:02:09.792Z",
-      "url": "https://www.dreamworkhq.com/job/d034d27b-650a-4e6a-ab15-11f9dcec34f3?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
       "id": "b5a3ed58-4c46-4356-85d4-58927dd3d390",
       "title": "Data Analytics Engineer",
       "company": "EURES Netherlands (Professional)",
@@ -5388,6 +5328,21 @@
       "postedAt": "2026-08-08T01:12:13.587Z",
       "firstIndexedAt": "2026-08-08T21:02:09.792Z",
       "url": "https://www.dreamworkhq.com/job/b5a3ed58-4c46-4356-85d4-58927dd3d390?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "d034d27b-650a-4e6a-ab15-11f9dcec34f3",
+      "title": "(Senior) Data Engineer",
+      "company": "EURES Netherlands (Professional)",
+      "companyDomain": "eraneos.com",
+      "location": "Noord-Holland, Netherlands",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-08-08T01:11:54.946Z",
+      "firstIndexedAt": "2026-08-08T21:02:09.792Z",
+      "url": "https://www.dreamworkhq.com/job/d034d27b-650a-4e6a-ab15-11f9dcec34f3?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "ec1144b8-d34b-457c-9023-77a8426ef325",
@@ -5690,21 +5645,6 @@
       "url": "https://www.dreamworkhq.com/job/01de20c6-21ff-4f53-9586-bdfc53c5e2f7?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "b4ecd3ac-7f36-4b31-aebd-c233167088ce",
-      "title": "Senior AI / Data Engineer",
-      "company": "Disney",
-      "companyDomain": "disney.com",
-      "location": "Celebration, FL, USA",
-      "remoteType": "onsite",
-      "salaryMin": 135200,
-      "salaryMax": 181200,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-05T14:30:34.859Z",
-      "firstIndexedAt": "2026-08-08T13:15:57.688Z",
-      "url": "https://www.dreamworkhq.com/job/b4ecd3ac-7f36-4b31-aebd-c233167088ce?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
       "id": "b045d646-7907-4379-963c-507830ca1d00",
       "title": "Senior Manager, Data Engineering",
       "company": "Disney",
@@ -5720,19 +5660,19 @@
       "url": "https://www.dreamworkhq.com/job/b045d646-7907-4379-963c-507830ca1d00?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "e81f02c3-55c7-4862-9541-7a245f590409",
-      "title": "Sr Manager, Software Data Engineering",
+      "id": "b4ecd3ac-7f36-4b31-aebd-c233167088ce",
+      "title": "Senior AI / Data Engineer",
       "company": "Disney",
       "companyDomain": "disney.com",
-      "location": "Burbank, CA, USA",
+      "location": "Celebration, FL, USA",
       "remoteType": "onsite",
-      "salaryMin": 188400,
-      "salaryMax": 252600,
+      "salaryMin": 135200,
+      "salaryMax": 181200,
       "salaryPeriod": "annual",
-      "aiRoleKind": "ai_enabled",
-      "postedAt": "2026-08-06T14:30:33.252Z",
-      "firstIndexedAt": "2026-08-08T13:15:56.319Z",
-      "url": "https://www.dreamworkhq.com/job/e81f02c3-55c7-4862-9541-7a245f590409?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-08-05T14:30:34.859Z",
+      "firstIndexedAt": "2026-08-08T13:15:57.688Z",
+      "url": "https://www.dreamworkhq.com/job/b4ecd3ac-7f36-4b31-aebd-c233167088ce?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "44a92c12-8f60-4df5-bcfe-63846f2f86f5",
@@ -5748,6 +5688,21 @@
       "postedAt": "2026-08-07T14:30:32.192Z",
       "firstIndexedAt": "2026-08-08T13:15:56.319Z",
       "url": "https://www.dreamworkhq.com/job/44a92c12-8f60-4df5-bcfe-63846f2f86f5?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "e81f02c3-55c7-4862-9541-7a245f590409",
+      "title": "Sr Manager, Software Data Engineering",
+      "company": "Disney",
+      "companyDomain": "disney.com",
+      "location": "Burbank, CA, USA",
+      "remoteType": "onsite",
+      "salaryMin": 188400,
+      "salaryMax": 252600,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "ai_enabled",
+      "postedAt": "2026-08-06T14:30:33.252Z",
+      "firstIndexedAt": "2026-08-08T13:15:56.319Z",
+      "url": "https://www.dreamworkhq.com/job/e81f02c3-55c7-4862-9541-7a245f590409?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "60d29b89-47da-4145-9b09-902f5f638253",
@@ -5780,19 +5735,19 @@
       "url": "https://www.dreamworkhq.com/job/7b9a0e66-cac5-49dd-b536-ca86a8618001?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "b1b95dd1-5f35-4cae-8faa-8fe02c6b0439",
+      "id": "3e3cc5b9-e407-4488-b6af-6f86e29b5fd1",
       "title": "Data Engineer (SQL-focused)",
       "company": "Blend360",
       "companyDomain": "blend360.com",
-      "location": "Guadalajara, Jal., Mexico",
-      "remoteType": "hybrid",
+      "location": "Santiago, Santiago Metropolitan Region, Chile",
+      "remoteType": "remote",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-07T18:54:05.330Z",
+      "postedAt": "2026-08-07T18:55:45.454Z",
       "firstIndexedAt": "2026-08-08T12:30:13.798Z",
-      "url": "https://www.dreamworkhq.com/job/b1b95dd1-5f35-4cae-8faa-8fe02c6b0439?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+      "url": "https://www.dreamworkhq.com/job/3e3cc5b9-e407-4488-b6af-6f86e29b5fd1?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "c7b98607-696a-4baf-9257-9dca4c866219",
@@ -5810,19 +5765,19 @@
       "url": "https://www.dreamworkhq.com/job/c7b98607-696a-4baf-9257-9dca4c866219?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "3e3cc5b9-e407-4488-b6af-6f86e29b5fd1",
+      "id": "b1b95dd1-5f35-4cae-8faa-8fe02c6b0439",
       "title": "Data Engineer (SQL-focused)",
       "company": "Blend360",
       "companyDomain": "blend360.com",
-      "location": "Santiago, Santiago Metropolitan Region, Chile",
-      "remoteType": "remote",
+      "location": "Guadalajara, Jal., Mexico",
+      "remoteType": "hybrid",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-07T18:55:45.454Z",
+      "postedAt": "2026-08-07T18:54:05.330Z",
       "firstIndexedAt": "2026-08-08T12:30:13.798Z",
-      "url": "https://www.dreamworkhq.com/job/3e3cc5b9-e407-4488-b6af-6f86e29b5fd1?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+      "url": "https://www.dreamworkhq.com/job/b1b95dd1-5f35-4cae-8faa-8fe02c6b0439?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "92551981-f77b-4f77-932f-384eef35915f",
@@ -6065,21 +6020,6 @@
       "url": "https://www.dreamworkhq.com/job/5e8ac329-f3f0-4f31-8e74-ed010eb6229b?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "831851a5-050f-462e-9302-b5c108995f37",
-      "title": "Staff Data Engineer",
-      "company": "Beamery",
-      "companyDomain": "beamery.com",
-      "location": "London, UK",
-      "remoteType": "hybrid",
-      "salaryMin": 125000,
-      "salaryMax": 165000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-05T13:45:27.341Z",
-      "firstIndexedAt": "2026-08-08T07:30:13.010Z",
-      "url": "https://www.dreamworkhq.com/job/831851a5-050f-462e-9302-b5c108995f37?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
       "id": "950689b0-db57-4cd9-8f33-408d49dfb8b4",
       "title": "Senior Data Engineer",
       "company": "Beamery",
@@ -6093,6 +6033,21 @@
       "postedAt": "2026-08-05T13:43:28.044Z",
       "firstIndexedAt": "2026-08-08T07:30:13.010Z",
       "url": "https://www.dreamworkhq.com/job/950689b0-db57-4cd9-8f33-408d49dfb8b4?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "831851a5-050f-462e-9302-b5c108995f37",
+      "title": "Staff Data Engineer",
+      "company": "Beamery",
+      "companyDomain": "beamery.com",
+      "location": "London, UK",
+      "remoteType": "hybrid",
+      "salaryMin": 125000,
+      "salaryMax": 165000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-08-05T13:45:27.341Z",
+      "firstIndexedAt": "2026-08-08T07:30:13.010Z",
+      "url": "https://www.dreamworkhq.com/job/831851a5-050f-462e-9302-b5c108995f37?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "f2bc78e5-e7ba-4ec9-87c2-04999708b065",
@@ -6140,21 +6095,6 @@
       "url": "https://www.dreamworkhq.com/job/e2207017-3b49-47bc-afc6-90100f83e03c?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "6fbfc641-ef44-4ad4-8dbd-a07be607e451",
-      "title": "Data Engineer GCP (F/H)",
-      "company": "ALTEN",
-      "companyDomain": "alten.com",
-      "location": "Paris, IDF, France",
-      "remoteType": "hybrid",
-      "salaryMin": 49000,
-      "salaryMax": 65000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-07T10:45:00.084Z",
-      "firstIndexedAt": "2026-08-08T05:30:53.811Z",
-      "url": "https://www.dreamworkhq.com/job/6fbfc641-ef44-4ad4-8dbd-a07be607e451?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
       "id": "15ee0115-5caf-410c-9d5c-e9f636f682c1",
       "title": "Data Engineer – Plateforme Skywise (H/F)",
       "company": "ALTEN",
@@ -6168,6 +6108,21 @@
       "postedAt": "2026-08-07T15:02:59.759Z",
       "firstIndexedAt": "2026-08-08T05:30:53.811Z",
       "url": "https://www.dreamworkhq.com/job/15ee0115-5caf-410c-9d5c-e9f636f682c1?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "6fbfc641-ef44-4ad4-8dbd-a07be607e451",
+      "title": "Data Engineer GCP (F/H)",
+      "company": "ALTEN",
+      "companyDomain": "alten.com",
+      "location": "Paris, IDF, France",
+      "remoteType": "hybrid",
+      "salaryMin": 49000,
+      "salaryMax": 65000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-07T10:45:00.084Z",
+      "firstIndexedAt": "2026-08-08T05:30:53.811Z",
+      "url": "https://www.dreamworkhq.com/job/6fbfc641-ef44-4ad4-8dbd-a07be607e451?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "42c2e3c6-4eed-47f4-89e9-c3afa1038948",
@@ -6335,21 +6290,6 @@
       "url": "https://www.dreamworkhq.com/job/9d354f50-f623-451e-8361-c67f3ddafec3?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "97c1979c-b757-4c3f-861e-95efaf1f0495",
-      "title": "Senior Data Engineer/Software Developer - Clearance",
-      "company": "LMI",
-      "companyDomain": "lmi.org",
-      "location": "Newport News, VA, US",
-      "remoteType": "onsite",
-      "salaryMin": 111426,
-      "salaryMax": 192890,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-07T04:00:00.000Z",
-      "firstIndexedAt": "2026-08-08T02:15:30.928Z",
-      "url": "https://www.dreamworkhq.com/job/97c1979c-b757-4c3f-861e-95efaf1f0495?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
       "id": "fd24fe22-7b97-45b2-8493-89cccddcbe9f",
       "title": "Senior Data Engineer [Palantir Foundry] - Clearance Required",
       "company": "LMI",
@@ -6363,6 +6303,21 @@
       "postedAt": "2026-08-07T04:00:00.000Z",
       "firstIndexedAt": "2026-08-08T02:15:30.928Z",
       "url": "https://www.dreamworkhq.com/job/fd24fe22-7b97-45b2-8493-89cccddcbe9f?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "97c1979c-b757-4c3f-861e-95efaf1f0495",
+      "title": "Senior Data Engineer/Software Developer - Clearance",
+      "company": "LMI",
+      "companyDomain": "lmi.org",
+      "location": "Newport News, VA, US",
+      "remoteType": "onsite",
+      "salaryMin": 111426,
+      "salaryMax": 192890,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-07T04:00:00.000Z",
+      "firstIndexedAt": "2026-08-08T02:15:30.928Z",
+      "url": "https://www.dreamworkhq.com/job/97c1979c-b757-4c3f-861e-95efaf1f0495?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "0f7791db-68b9-49e5-aec6-cad01870b1c9",
@@ -6635,36 +6590,6 @@
       "url": "https://www.dreamworkhq.com/job/146622c2-2129-440f-a11a-08b0a32d4f06?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "82bb6cbd-cd10-4162-abf3-b2d2458b0a92",
-      "title": "Data Engineer Communicatie en Informatiesystemen Operaties (CISOPS)",
-      "company": "EURES Netherlands",
-      "companyDomain": "controlenavigatie.nl",
-      "location": "Netherlands",
-      "remoteType": "onsite",
-      "salaryMin": 47000,
-      "salaryMax": 74000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-06T01:12:00.663Z",
-      "firstIndexedAt": "2026-08-07T17:47:33.960Z",
-      "url": "https://www.dreamworkhq.com/job/82bb6cbd-cd10-4162-abf3-b2d2458b0a92?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
-      "id": "d219a630-aae2-4ce3-b00a-0c1e90afd93a",
-      "title": "Data engineer (in opleiding)",
-      "company": "EURES Netherlands",
-      "companyDomain": "controlenavigatie.nl",
-      "location": "Gelderland, Netherlands",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-06T01:12:47.187Z",
-      "firstIndexedAt": "2026-08-07T17:47:33.960Z",
-      "url": "https://www.dreamworkhq.com/job/d219a630-aae2-4ce3-b00a-0c1e90afd93a?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
       "id": "c45c4983-0b7c-458d-846b-fcb67b171637",
       "title": "Azure Data Engineer",
       "company": "EURES Netherlands",
@@ -6695,34 +6620,34 @@
       "url": "https://www.dreamworkhq.com/job/6c84b28e-6f9b-4cea-aa81-574d73412f79?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "6e65f814-74ba-4860-8771-0ce4d7106ae6",
-      "title": "Finance Group Data Engineer",
+      "id": "d219a630-aae2-4ce3-b00a-0c1e90afd93a",
+      "title": "Data engineer (in opleiding)",
       "company": "EURES Netherlands",
       "companyDomain": "controlenavigatie.nl",
       "location": "Gelderland, Netherlands",
       "remoteType": null,
-      "salaryMin": 52000,
-      "salaryMax": 84000,
-      "salaryPeriod": "annual",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-07T01:12:09.272Z",
-      "firstIndexedAt": "2026-08-07T17:47:28.678Z",
-      "url": "https://www.dreamworkhq.com/job/6e65f814-74ba-4860-8771-0ce4d7106ae6?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+      "postedAt": "2026-08-06T01:12:47.187Z",
+      "firstIndexedAt": "2026-08-07T17:47:33.960Z",
+      "url": "https://www.dreamworkhq.com/job/d219a630-aae2-4ce3-b00a-0c1e90afd93a?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "43a190d7-9e92-4ac0-a856-d52926a1a118",
-      "title": "Senior Data Engineer",
+      "id": "82bb6cbd-cd10-4162-abf3-b2d2458b0a92",
+      "title": "Data Engineer Communicatie en Informatiesystemen Operaties (CISOPS)",
       "company": "EURES Netherlands",
       "companyDomain": "controlenavigatie.nl",
       "location": "Netherlands",
-      "remoteType": "hybrid",
-      "salaryMin": 71000,
-      "salaryMax": 110000,
+      "remoteType": "onsite",
+      "salaryMin": 47000,
+      "salaryMax": 74000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-07T01:12:20.633Z",
-      "firstIndexedAt": "2026-08-07T17:47:28.678Z",
-      "url": "https://www.dreamworkhq.com/job/43a190d7-9e92-4ac0-a856-d52926a1a118?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+      "postedAt": "2026-08-06T01:12:00.663Z",
+      "firstIndexedAt": "2026-08-07T17:47:33.960Z",
+      "url": "https://www.dreamworkhq.com/job/82bb6cbd-cd10-4162-abf3-b2d2458b0a92?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "d087ef8b-b325-4d5d-af04-e95259c4c09c",
@@ -6740,19 +6665,19 @@
       "url": "https://www.dreamworkhq.com/job/d087ef8b-b325-4d5d-af04-e95259c4c09c?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "121f8435-5d3d-4314-a631-50c6c06a4bb6",
-      "title": "Finance Group Data Engineer",
+      "id": "43a190d7-9e92-4ac0-a856-d52926a1a118",
+      "title": "Senior Data Engineer",
       "company": "EURES Netherlands",
       "companyDomain": "controlenavigatie.nl",
       "location": "Netherlands",
-      "remoteType": null,
-      "salaryMin": 52000,
-      "salaryMax": 84000,
+      "remoteType": "hybrid",
+      "salaryMin": 71000,
+      "salaryMax": 110000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-07T01:12:23.553Z",
+      "postedAt": "2026-08-07T01:12:20.633Z",
       "firstIndexedAt": "2026-08-07T17:47:28.678Z",
-      "url": "https://www.dreamworkhq.com/job/121f8435-5d3d-4314-a631-50c6c06a4bb6?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+      "url": "https://www.dreamworkhq.com/job/43a190d7-9e92-4ac0-a856-d52926a1a118?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "ab5cafd3-efac-4c1e-a8cf-7c06989f9d32",
@@ -6768,6 +6693,36 @@
       "postedAt": "2026-08-06T01:12:09.764Z",
       "firstIndexedAt": "2026-08-07T17:47:28.678Z",
       "url": "https://www.dreamworkhq.com/job/ab5cafd3-efac-4c1e-a8cf-7c06989f9d32?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "121f8435-5d3d-4314-a631-50c6c06a4bb6",
+      "title": "Finance Group Data Engineer",
+      "company": "EURES Netherlands",
+      "companyDomain": "controlenavigatie.nl",
+      "location": "Netherlands",
+      "remoteType": null,
+      "salaryMin": 52000,
+      "salaryMax": 84000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-07T01:12:23.553Z",
+      "firstIndexedAt": "2026-08-07T17:47:28.678Z",
+      "url": "https://www.dreamworkhq.com/job/121f8435-5d3d-4314-a631-50c6c06a4bb6?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "6e65f814-74ba-4860-8771-0ce4d7106ae6",
+      "title": "Finance Group Data Engineer",
+      "company": "EURES Netherlands",
+      "companyDomain": "controlenavigatie.nl",
+      "location": "Gelderland, Netherlands",
+      "remoteType": null,
+      "salaryMin": 52000,
+      "salaryMax": 84000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-07T01:12:09.272Z",
+      "firstIndexedAt": "2026-08-07T17:47:28.678Z",
+      "url": "https://www.dreamworkhq.com/job/6e65f814-74ba-4860-8771-0ce4d7106ae6?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "9af34e6b-e594-41cc-8223-dd367f7ae405",
@@ -6890,7 +6845,7 @@
       "url": "https://www.dreamworkhq.com/job/1bb94be1-1d93-4dd5-a14a-6bf1c30e40f9?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "162d516a-2275-47a5-9044-dbc149891708",
+      "id": "a66c0ee4-d3a3-4ac0-aa56-e0d7ea35e4c1",
       "title": "Data Engineer Health Sector, Smals (H/F/X)",
       "company": "SMALS VZW",
       "companyDomain": "smals.be",
@@ -6902,7 +6857,7 @@
       "aiRoleKind": "non_ai",
       "postedAt": "2026-08-06T00:00:00.000Z",
       "firstIndexedAt": "2026-08-07T15:48:22.647Z",
-      "url": "https://www.dreamworkhq.com/job/162d516a-2275-47a5-9044-dbc149891708?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+      "url": "https://www.dreamworkhq.com/job/a66c0ee4-d3a3-4ac0-aa56-e0d7ea35e4c1?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "d31cf783-4217-4075-bed5-fb3227ea7458",
@@ -6935,21 +6890,6 @@
       "url": "https://www.dreamworkhq.com/job/cf6a92c3-931f-4674-b54c-5a963773767f?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "95ab9057-c0b2-42cb-9194-cae9a2fdbce8",
-      "title": "Sr. Data Engineer",
-      "company": "Coca Cola Careers",
-      "companyDomain": "coca-cola.com",
-      "location": "Mexico - Mexico City",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-07T22:02:02.535Z",
-      "firstIndexedAt": "2026-08-07T15:30:33.305Z",
-      "url": "https://www.dreamworkhq.com/job/95ab9057-c0b2-42cb-9194-cae9a2fdbce8?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
       "id": "65d4e2ca-87aa-4337-8bf3-d132e69d6efd",
       "title": "Sr. Data Engineer - Integrations",
       "company": "Coca Cola Careers",
@@ -6963,6 +6903,21 @@
       "postedAt": "2026-08-07T22:02:02.330Z",
       "firstIndexedAt": "2026-08-07T15:30:33.305Z",
       "url": "https://www.dreamworkhq.com/job/65d4e2ca-87aa-4337-8bf3-d132e69d6efd?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "95ab9057-c0b2-42cb-9194-cae9a2fdbce8",
+      "title": "Sr. Data Engineer",
+      "company": "Coca Cola Careers",
+      "companyDomain": "coca-cola.com",
+      "location": "Mexico - Mexico City",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-07T22:02:02.535Z",
+      "firstIndexedAt": "2026-08-07T15:30:33.305Z",
+      "url": "https://www.dreamworkhq.com/job/95ab9057-c0b2-42cb-9194-cae9a2fdbce8?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "ce46dbaa-d335-4124-a626-cd0721ccb814",
@@ -7085,6 +7040,21 @@
       "url": "https://www.dreamworkhq.com/job/4cc9db3e-e461-476d-aa6e-f223ede3f272?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
+      "id": "4fed3a89-e2e2-4621-97f2-d1677e9d63a6",
+      "title": "Manager, Data Engineer",
+      "company": "Coca Cola Careers",
+      "companyDomain": "coca-cola.com",
+      "location": "Singapore - Singapore",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_first",
+      "postedAt": "2026-08-07T22:02:05.440Z",
+      "firstIndexedAt": "2026-08-07T13:00:38.192Z",
+      "url": "https://www.dreamworkhq.com/job/4fed3a89-e2e2-4621-97f2-d1677e9d63a6?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
       "id": "929b9272-4fd6-4b02-8b4d-256b2383b31a",
       "title": "Senior Data Engineer - Streaming",
       "company": "Coca Cola Careers",
@@ -7113,21 +7083,6 @@
       "postedAt": "2026-08-07T22:02:05.505Z",
       "firstIndexedAt": "2026-08-07T13:00:38.192Z",
       "url": "https://www.dreamworkhq.com/job/2d639ac6-4758-40a1-adb2-383e153fdab7?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
-      "id": "4fed3a89-e2e2-4621-97f2-d1677e9d63a6",
-      "title": "Manager, Data Engineer",
-      "company": "Coca Cola Careers",
-      "companyDomain": "coca-cola.com",
-      "location": "Singapore - Singapore",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_first",
-      "postedAt": "2026-08-07T22:02:05.440Z",
-      "firstIndexedAt": "2026-08-07T13:00:38.192Z",
-      "url": "https://www.dreamworkhq.com/job/4fed3a89-e2e2-4621-97f2-d1677e9d63a6?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "785a22f2-d9bf-4615-89e2-88e53f1c7c13",
@@ -7170,7 +7125,7 @@
       "salaryMax": 93000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-06T02:00:38.434Z",
+      "postedAt": "2026-08-06T03:45:41.366Z",
       "firstIndexedAt": "2026-08-07T11:45:25.451Z",
       "url": "https://www.dreamworkhq.com/job/94f1f010-3cf3-43b9-8e9e-52f9ce087c91?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
@@ -7565,21 +7520,6 @@
       "url": "https://www.dreamworkhq.com/job/329635a1-b03e-4296-84a0-97b81a7b61cb?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "8c894ea4-276f-4087-874d-9b2de70c09db",
-      "title": "Lead Software Engineer- Data Engineer",
-      "company": "Caterpillar",
-      "companyDomain": "caterpillar.com",
-      "location": "Chennai, Tamil Nadu",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-08T03:00:48.986Z",
-      "firstIndexedAt": "2026-08-07T04:16:27.639Z",
-      "url": "https://www.dreamworkhq.com/job/8c894ea4-276f-4087-874d-9b2de70c09db?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
       "id": "64e58bec-8f45-4535-9ce8-0a9d770479cf",
       "title": "Senior Software Engineer - Data Engineering",
       "company": "Caterpillar",
@@ -7593,6 +7533,21 @@
       "postedAt": "2026-08-08T03:00:49.029Z",
       "firstIndexedAt": "2026-08-07T04:16:27.639Z",
       "url": "https://www.dreamworkhq.com/job/64e58bec-8f45-4535-9ce8-0a9d770479cf?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "8c894ea4-276f-4087-874d-9b2de70c09db",
+      "title": "Lead Software Engineer- Data Engineer",
+      "company": "Caterpillar",
+      "companyDomain": "caterpillar.com",
+      "location": "Chennai, Tamil Nadu",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-08-08T03:00:48.986Z",
+      "firstIndexedAt": "2026-08-07T04:16:27.639Z",
+      "url": "https://www.dreamworkhq.com/job/8c894ea4-276f-4087-874d-9b2de70c09db?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "b588db9b-4d72-4c44-a85a-54f38e212df5",
@@ -7655,21 +7610,6 @@
       "url": "https://www.dreamworkhq.com/job/e129257f-a0bb-41b3-abc7-399e4d50152d?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "f6a63d22-f45c-4e5f-9d8e-61b3ba028a8a",
-      "title": "Software Engineer, Data Platform Team",
-      "company": "Coinbase",
-      "companyDomain": "coinbase.com",
-      "location": "Remote - USA",
-      "remoteType": "remote",
-      "salaryMin": 152405,
-      "salaryMax": 179300,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-06T22:47:26.000Z",
-      "firstIndexedAt": "2026-08-07T03:30:33.118Z",
-      "url": "https://www.dreamworkhq.com/job/f6a63d22-f45c-4e5f-9d8e-61b3ba028a8a?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
       "id": "e4044001-697f-4033-8b8b-56fe34644e05",
       "title": "Staff Analytics Engineer, Compliance Data",
       "company": "Coinbase",
@@ -7683,6 +7623,21 @@
       "postedAt": "2026-08-06T21:32:09.000Z",
       "firstIndexedAt": "2026-08-07T03:30:33.118Z",
       "url": "https://www.dreamworkhq.com/job/e4044001-697f-4033-8b8b-56fe34644e05?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "f6a63d22-f45c-4e5f-9d8e-61b3ba028a8a",
+      "title": "Software Engineer, Data Platform Team",
+      "company": "Coinbase",
+      "companyDomain": "coinbase.com",
+      "location": "Remote - USA",
+      "remoteType": "remote",
+      "salaryMin": 152405,
+      "salaryMax": 179300,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-06T22:47:26.000Z",
+      "firstIndexedAt": "2026-08-07T03:30:33.118Z",
+      "url": "https://www.dreamworkhq.com/job/f6a63d22-f45c-4e5f-9d8e-61b3ba028a8a?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "f0011c33-6531-4aa1-9f45-c7ee34df2237",
@@ -7850,21 +7805,6 @@
       "url": "https://www.dreamworkhq.com/job/c2429eb4-5985-444f-9b06-e8e16f5dd620?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "04e0a4b1-ce46-4814-91e2-1a63630a3f11",
-      "title": "Senior Data Engineer",
-      "company": "Betsson",
-      "companyDomain": "betsson.com",
-      "location": "Budapest",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-06T22:00:01.000Z",
-      "firstIndexedAt": "2026-08-06T23:30:21.969Z",
-      "url": "https://www.dreamworkhq.com/job/04e0a4b1-ce46-4814-91e2-1a63630a3f11?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
       "id": "4da471e4-8d51-4545-8edb-1a5f5f9dd567",
       "title": "Senior Data Engineer",
       "company": "Betsson",
@@ -7878,6 +7818,21 @@
       "postedAt": "2026-08-06T22:00:01.000Z",
       "firstIndexedAt": "2026-08-06T23:30:21.969Z",
       "url": "https://www.dreamworkhq.com/job/4da471e4-8d51-4545-8edb-1a5f5f9dd567?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "04e0a4b1-ce46-4814-91e2-1a63630a3f11",
+      "title": "Senior Data Engineer",
+      "company": "Betsson",
+      "companyDomain": "betsson.com",
+      "location": "Budapest",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-06T22:00:01.000Z",
+      "firstIndexedAt": "2026-08-06T23:30:21.969Z",
+      "url": "https://www.dreamworkhq.com/job/04e0a4b1-ce46-4814-91e2-1a63630a3f11?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "56626a81-d7a2-47b0-9e76-0b1d94e3bac6",
@@ -8075,21 +8030,6 @@
       "url": "https://www.dreamworkhq.com/job/fce781cd-9c1e-4f7f-b73d-2f9c0ae6a775?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "931a6a99-e294-4334-a1ea-d6cef5321c30",
-      "title": "Senior Data Engineer - Data Foundations (all genders)",
-      "company": "ABOUT YOU",
-      "companyDomain": "aboutyou.com",
-      "location": "Hamburg oder Berlin, , Germany",
-      "remoteType": "hybrid",
-      "salaryMin": 76000,
-      "salaryMax": 92000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-06T15:23:43.266Z",
-      "firstIndexedAt": "2026-08-06T16:15:34.238Z",
-      "url": "https://www.dreamworkhq.com/job/931a6a99-e294-4334-a1ea-d6cef5321c30?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
       "id": "2768929d-6a2c-4ba5-80f0-55a380439c36",
       "title": "Senior Data Engineer - Data Foundations (all genders)",
       "company": "ABOUT YOU",
@@ -8105,6 +8045,21 @@
       "url": "https://www.dreamworkhq.com/job/2768929d-6a2c-4ba5-80f0-55a380439c36?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
+      "id": "931a6a99-e294-4334-a1ea-d6cef5321c30",
+      "title": "Senior Data Engineer - Data Foundations (all genders)",
+      "company": "ABOUT YOU",
+      "companyDomain": "aboutyou.com",
+      "location": "Hamburg oder Berlin, , Germany",
+      "remoteType": "hybrid",
+      "salaryMin": 76000,
+      "salaryMax": 92000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-06T15:23:43.266Z",
+      "firstIndexedAt": "2026-08-06T16:15:34.238Z",
+      "url": "https://www.dreamworkhq.com/job/931a6a99-e294-4334-a1ea-d6cef5321c30?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
       "id": "5db05da7-a65b-4ce3-9820-cb994950e684",
       "title": "Senior Data Engineer",
       "company": "Michael Page Technology",
@@ -8118,21 +8073,6 @@
       "postedAt": "2026-08-06T00:00:00.000Z",
       "firstIndexedAt": "2026-08-06T15:17:58.092Z",
       "url": "https://www.dreamworkhq.com/job/5db05da7-a65b-4ce3-9820-cb994950e684?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
-      "id": "8b0d546d-3ce6-4044-90ce-c937d1fa925f",
-      "title": "Associate Engineer - Data engineer",
-      "company": "Harman",
-      "companyDomain": "harman.com",
-      "location": "Bangalore - Karnataka, India - Kalyani Platina",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-07T06:15:59.542Z",
-      "firstIndexedAt": "2026-08-06T15:01:38.872Z",
-      "url": "https://www.dreamworkhq.com/job/8b0d546d-3ce6-4044-90ce-c937d1fa925f?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "61b1b66a-c928-4093-8501-ce79a0fe52e7",
@@ -8675,36 +8615,6 @@
       "url": "https://www.dreamworkhq.com/job/8b8ccf62-b54f-4207-8bfe-d0dd7ac1f20b?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "f79db09a-e7df-4cab-b123-5b1466df4cb1",
-      "title": "Senior Software Engineer (Java/C++)  — Query Engine / Data Platform",
-      "company": "KaaIoT",
-      "companyDomain": "kaaiot.com",
-      "location": "Europe",
-      "remoteType": "remote",
-      "salaryMin": 48000,
-      "salaryMax": 60000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-06T09:28:41.839Z",
-      "firstIndexedAt": "2026-08-06T06:34:39.400Z",
-      "url": "https://www.dreamworkhq.com/job/f79db09a-e7df-4cab-b123-5b1466df4cb1?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
-      "id": "1f3acc00-c236-4c05-9b9c-f4f7edcd1213",
-      "title": "Middle Software Engineer (Java/C++) — Query Engine / Data Platform",
-      "company": "KaaIoT",
-      "companyDomain": "kaaiot.com",
-      "location": "Europe",
-      "remoteType": "remote",
-      "salaryMin": 30000,
-      "salaryMax": 42000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-06T09:28:42.999Z",
-      "firstIndexedAt": "2026-08-06T06:34:39.400Z",
-      "url": "https://www.dreamworkhq.com/job/1f3acc00-c236-4c05-9b9c-f4f7edcd1213?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
       "id": "ee1626ca-8842-46b4-b350-26f393825024",
       "title": "Senior Data Engineer",
       "company": "N-iX",
@@ -8733,6 +8643,36 @@
       "postedAt": "2026-08-05T17:14:29.108Z",
       "firstIndexedAt": "2026-08-06T06:34:39.400Z",
       "url": "https://www.dreamworkhq.com/job/3327bb81-e470-49ab-903c-a32906dd9e07?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "1f3acc00-c236-4c05-9b9c-f4f7edcd1213",
+      "title": "Middle Software Engineer (Java/C++) — Query Engine / Data Platform",
+      "company": "KaaIoT",
+      "companyDomain": "kaaiot.com",
+      "location": "Europe",
+      "remoteType": "remote",
+      "salaryMin": 30000,
+      "salaryMax": 42000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-06T09:28:42.999Z",
+      "firstIndexedAt": "2026-08-06T06:34:39.400Z",
+      "url": "https://www.dreamworkhq.com/job/1f3acc00-c236-4c05-9b9c-f4f7edcd1213?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "f79db09a-e7df-4cab-b123-5b1466df4cb1",
+      "title": "Senior Software Engineer (Java/C++)  — Query Engine / Data Platform",
+      "company": "KaaIoT",
+      "companyDomain": "kaaiot.com",
+      "location": "Europe",
+      "remoteType": "remote",
+      "salaryMin": 48000,
+      "salaryMax": 60000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-06T09:28:41.839Z",
+      "firstIndexedAt": "2026-08-06T06:34:39.400Z",
+      "url": "https://www.dreamworkhq.com/job/f79db09a-e7df-4cab-b123-5b1466df4cb1?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "b21bb60f-a901-4658-b9e5-6644e8ec0044",
@@ -8810,6 +8750,21 @@
       "url": "https://www.dreamworkhq.com/job/5e15e519-2e36-432c-afdd-ee81c9f5263e?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
+      "id": "c334f1ed-dbe1-45a3-88d4-126f68fc84f6",
+      "title": "Data Engineer Snowflake - Services Financiers – Lille",
+      "company": "SopraSteria1",
+      "companyDomain": "soprasteria.com",
+      "location": "Villeneuve-d'Ascq, Hauts-de-France, France",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-05T08:33:59.016Z",
+      "firstIndexedAt": "2026-08-06T05:22:46.383Z",
+      "url": "https://www.dreamworkhq.com/job/c334f1ed-dbe1-45a3-88d4-126f68fc84f6?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
       "id": "6f2ea67a-62f1-4c71-994c-220df255919f",
       "title": "Data Engineer confirmé(e) - Assurance - Lille",
       "company": "SopraSteria1",
@@ -8838,21 +8793,6 @@
       "postedAt": "2026-08-05T08:20:15.724Z",
       "firstIndexedAt": "2026-08-06T05:22:46.383Z",
       "url": "https://www.dreamworkhq.com/job/55071eb0-26c9-4d58-a0c4-4e52ca22ac52?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
-      "id": "c334f1ed-dbe1-45a3-88d4-126f68fc84f6",
-      "title": "Data Engineer Snowflake - Services Financiers – Lille",
-      "company": "SopraSteria1",
-      "companyDomain": "soprasteria.com",
-      "location": "Villeneuve-d'Ascq, Hauts-de-France, France",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-05T08:33:59.016Z",
-      "firstIndexedAt": "2026-08-06T05:22:46.383Z",
-      "url": "https://www.dreamworkhq.com/job/c334f1ed-dbe1-45a3-88d4-126f68fc84f6?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "5e0928a2-7de9-4a47-b7d9-c74da7455289",
@@ -8900,64 +8840,19 @@
       "url": "https://www.dreamworkhq.com/job/d20b789d-ebf0-4ab3-b0d0-f80078e14cd6?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "0cca2183-6aed-4d6c-884a-3816e81c0c10",
-      "title": "Data Engineer 2FTE",
+      "id": "4ed557b5-25be-4310-8cfc-b3f507cf869d",
+      "title": "GCP Data Engineer",
       "company": "EURES Netherlands",
       "companyDomain": "thefrontendlab.com",
-      "location": "Netherlands",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-01T01:11:50.156Z",
-      "firstIndexedAt": "2026-08-06T03:47:57.440Z",
-      "url": "https://www.dreamworkhq.com/job/0cca2183-6aed-4d6c-884a-3816e81c0c10?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
-      "id": "00eea2c5-211a-4c21-be2e-09ede122273d",
-      "title": "Senior Data Engineer | Energietransitie",
-      "company": "EURES Netherlands",
-      "companyDomain": "thefrontendlab.com",
-      "location": "Netherlands",
+      "location": "Noord-Holland, Netherlands",
       "remoteType": null,
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-02T01:12:56.071Z",
-      "firstIndexedAt": "2026-08-06T03:47:57.440Z",
-      "url": "https://www.dreamworkhq.com/job/00eea2c5-211a-4c21-be2e-09ede122273d?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
-      "id": "4f822eb2-f426-4b75-83c8-2cfeafe101a1",
-      "title": "Agile Data Engineer",
-      "company": "EURES Netherlands",
-      "companyDomain": "thefrontendlab.com",
-      "location": "Noord-Holland, Netherlands",
-      "remoteType": "onsite",
-      "salaryMin": 38000,
-      "salaryMax": 56000,
-      "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-02T01:12:33.033Z",
+      "postedAt": "2026-08-04T01:11:52.929Z",
       "firstIndexedAt": "2026-08-06T03:47:57.440Z",
-      "url": "https://www.dreamworkhq.com/job/4f822eb2-f426-4b75-83c8-2cfeafe101a1?utm_source=github&utm_campaign=gh-data-engineering-jobs"
-    },
-    {
-      "id": "0a08ad7b-5adb-4583-a6fe-e5825b371dfd",
-      "title": "Data Engineer Communicatie en Informatiesystemen Operaties (CISOPS)",
-      "company": "EURES Netherlands",
-      "companyDomain": "thefrontendlab.com",
-      "location": "Overijssel, Netherlands",
-      "remoteType": "onsite",
-      "salaryMin": 47000,
-      "salaryMax": 74000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-04T01:12:28.350Z",
-      "firstIndexedAt": "2026-08-06T03:47:57.440Z",
-      "url": "https://www.dreamworkhq.com/job/0a08ad7b-5adb-4583-a6fe-e5825b371dfd?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+      "url": "https://www.dreamworkhq.com/job/4ed557b5-25be-4310-8cfc-b3f507cf869d?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
       "id": "f11a779d-eb27-45f6-8449-9b857396d4b2",
@@ -8975,6 +8870,21 @@
       "url": "https://www.dreamworkhq.com/job/f11a779d-eb27-45f6-8449-9b857396d4b2?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
+      "id": "4f822eb2-f426-4b75-83c8-2cfeafe101a1",
+      "title": "Agile Data Engineer",
+      "company": "EURES Netherlands",
+      "companyDomain": "thefrontendlab.com",
+      "location": "Noord-Holland, Netherlands",
+      "remoteType": "onsite",
+      "salaryMin": 38000,
+      "salaryMax": 56000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-02T01:12:33.033Z",
+      "firstIndexedAt": "2026-08-06T03:47:57.440Z",
+      "url": "https://www.dreamworkhq.com/job/4f822eb2-f426-4b75-83c8-2cfeafe101a1?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
       "id": "cea1cda1-1296-4390-a9cf-456ecd70b0fa",
       "title": "Principal Consultant Data Engineering",
       "company": "EURES Netherlands",
@@ -8990,19 +8900,109 @@
       "url": "https://www.dreamworkhq.com/job/cea1cda1-1296-4390-a9cf-456ecd70b0fa?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     },
     {
-      "id": "8f800cad-0ce9-4d6c-aa50-cc9daad4fc7d",
-      "title": "Medior Data Engineer Beheer Dashboards",
+      "id": "0a08ad7b-5adb-4583-a6fe-e5825b371dfd",
+      "title": "Data Engineer Communicatie en Informatiesystemen Operaties (CISOPS)",
       "company": "EURES Netherlands",
       "companyDomain": "thefrontendlab.com",
-      "location": "Netherlands",
+      "location": "Overijssel, Netherlands",
+      "remoteType": "onsite",
+      "salaryMin": 47000,
+      "salaryMax": 74000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-04T01:12:28.350Z",
+      "firstIndexedAt": "2026-08-06T03:47:57.440Z",
+      "url": "https://www.dreamworkhq.com/job/0a08ad7b-5adb-4583-a6fe-e5825b371dfd?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "d673db22-e8e5-4c68-8707-28c6c6e46db4",
+      "title": "Senior Data Engineer",
+      "company": "EURES Netherlands",
+      "companyDomain": "thefrontendlab.com",
+      "location": "Noord-Holland, Netherlands",
+      "remoteType": "onsite",
+      "salaryMin": 76000,
+      "salaryMax": 97000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "ai_first",
+      "postedAt": "2026-08-04T01:11:48.547Z",
+      "firstIndexedAt": "2026-08-06T03:47:57.440Z",
+      "url": "https://www.dreamworkhq.com/job/d673db22-e8e5-4c68-8707-28c6c6e46db4?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "ea5a6cff-ee6f-4b65-9b1b-391637fc4b1c",
+      "title": "Senior Data Platform Engineer",
+      "company": "Nextgen",
+      "companyDomain": "nextgen.com",
+      "location": "Remote GA",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-05T18:45:06.353Z",
+      "firstIndexedAt": "2026-08-06T03:15:29.929Z",
+      "url": "https://www.dreamworkhq.com/job/ea5a6cff-ee6f-4b65-9b1b-391637fc4b1c?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "1b2e9b9e-30e8-46cd-b94b-b53e97f93d01",
+      "title": "Sr MTS Software Engineer, Data Platforms",
+      "company": "eBay",
+      "companyDomain": "ebay.com",
+      "location": "Bengaluru, India",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-06T00:15:28.154Z",
+      "firstIndexedAt": "2026-08-05T21:01:04.305Z",
+      "url": "https://www.dreamworkhq.com/job/1b2e9b9e-30e8-46cd-b94b-b53e97f93d01?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "d19b71d7-267c-4a0a-93f2-81b84d57881c",
+      "title": "Staff Engineer - Data platform",
+      "company": "Kpler",
+      "companyDomain": "kpler.com",
+      "location": "United Kingdom",
       "remoteType": null,
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-04T01:12:09.231Z",
-      "firstIndexedAt": "2026-08-06T03:47:57.440Z",
-      "url": "https://www.dreamworkhq.com/job/8f800cad-0ce9-4d6c-aa50-cc9daad4fc7d?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+      "postedAt": "2026-08-03T10:50:02.610Z",
+      "firstIndexedAt": "2026-08-05T20:00:17.490Z",
+      "url": "https://www.dreamworkhq.com/job/d19b71d7-267c-4a0a-93f2-81b84d57881c?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "d26e53e4-4a60-4592-ba22-e0bf82025994",
+      "title": "Senior Analytics Engineer",
+      "company": "Harnham - Data & Analytics Recruitment",
+      "companyDomain": "harnham.com",
+      "location": "Oxfordshire",
+      "remoteType": "hybrid",
+      "salaryMin": 83000,
+      "salaryMax": 83000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-05T00:00:00.000Z",
+      "firstIndexedAt": "2026-08-05T18:18:29.949Z",
+      "url": "https://www.dreamworkhq.com/job/d26e53e4-4a60-4592-ba22-e0bf82025994?utm_source=github&utm_campaign=gh-data-engineering-jobs"
+    },
+    {
+      "id": "83f979e3-e09f-4262-bf18-5deb5be94a6a",
+      "title": "Big Data Platform Engineer",
+      "company": "Two95 International Inc 3",
+      "companyDomain": "two95intl.com",
+      "location": "India",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-03T00:00:00.000Z",
+      "firstIndexedAt": "2026-08-05T16:46:58.136Z",
+      "url": "https://www.dreamworkhq.com/job/83f979e3-e09f-4262-bf18-5deb5be94a6a?utm_source=github&utm_campaign=gh-data-engineering-jobs"
     }
   ]
 }
