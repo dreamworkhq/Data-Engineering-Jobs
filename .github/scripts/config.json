@@ -3,7 +3,7 @@
   "owner": "dreamworkhq",
   "title": "Data Engineering Jobs",
   "tagline": "Data engineering, analytics engineering, and data platform roles in the US and worldwide: pipelines, warehouses, Spark, dbt, and Airflow. Listings come straight from company career pages.",
-  "description": "Data engineering jobs updated daily. Pipeline, warehouse, and data platform roles (Spark, dbt, Airflow, Snowflake) with salaries, from 400,000+ crawled listings.",
+  "description": "Data engineering jobs updated daily. Pipeline, warehouse, and data platform roles (Spark, dbt, Airflow, Snowflake) with salaries.",
   "homepage": "https://www.dreamworkhq.com/?utm_source=github&utm_medium=repo_homepage&utm_campaign=gh-data-engineering-jobs",
   "topics": [
     "data-engineering",
